@@ -1,18 +1,22 @@
 ---
 title: "Projects"
+description: "Research projects, open source tools, and things I've built"
 listing:
   contents: project
   sort: "date desc"
   type: grid
   categories: true
-  sort-ui: false
-  filter-ui: false
+  sort-ui: true
+  filter-ui: true
   fields: [image, title, description, categories]
   grid-columns: 2
-page-layout: full
-title-block-banner: true
+  grid-item-border: true
+page-layout: article
+toc: false
 ---
 
-Here are some of the key projects I've worked on. These range from research initiatives to practical tools and frameworks designed to solve real-world problems.
+::: {.callout-note appearance="simple"}
+## Featured Work
 
-## Featured Projects
+A selection of research projects, open-source tools, and applications I've built. Each project represents an attempt to solve real problems or explore interesting ideas.
+:::

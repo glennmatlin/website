@@ -5,47 +5,84 @@ project:
 website:
   title: "Glenn Matlin"
   site-url: "https://glennmatlin.com"
+  description: "PhD Student & ML Researcher - Building at the intersection of AI and real-world applications"
+
+  # Search
+  search:
+    location: navbar
+    type: overlay
+
+  # Navigation
   navbar:
-    background: primary
+    background: "#003087"
+    foreground: light
+    title: "Glenn Matlin"
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
-      - href: blog.qmd
-        text: Blog
+      - href: research.qmd
+        text: Research
       - href: projects.qmd
         text: Projects
-      - href: publications.qmd
-        text: Publications
-      - text: Knowledge Base
-        menu:
-          - href: knowledgebase/cheatsheets/tmux.md
-            text: tmux Cheatsheet
-          - href: knowledgebase/cheatsheets/marp.md
-            text: Marp Guide
-          - text: "---"
-          - text: "Python Logging"
-          - href: knowledgebase/python/python3_logging_howto.md
-            text: Logging How-To
-          - href: knowledgebase/python/python3_logging_cookbook.md
-            text: Logging Cookbook
-          - href: knowledgebase/python/python3_logging_api.md
-            text: Logging API
+      - href: blog.qmd
+        text: Blog
+      - href: cv.qmd
+        text: CV
     right:
       - icon: github
-        href: https://github.com/gmatlin
+        href: https://github.com/glennmatlin
+        aria-label: GitHub
       - icon: linkedin
         href: https://linkedin.com/in/glennmatlin
+        aria-label: LinkedIn
       - icon: envelope
         href: mailto:glenn@glennmatlin.doctor
-  
+        aria-label: Email
+
+  # Footer
   page-footer:
-    left: "&copy; 2025 Glenn Matlin. All rights reserved."
-    right: "Published with [Quarto](https://quarto.org/)."
+    background: "#003087"
+    foreground: light
+    left: |
+      © 2025 Glenn Matlin
+    center: |
+      Built with [Quarto](https://quarto.org)
+    right:
+      - icon: rss
+        href: blog.xml
+        aria-label: RSS Feed
+      - icon: github
+        href: https://github.com/glennmatlin
+        aria-label: GitHub
+
+  # Open Graph / Social
+  open-graph:
+    locale: en_US
+    site-name: Glenn Matlin
+  twitter-card:
+    creator: "@glennmatlin"
+    card-style: summary_large_image
+
+  # Back to top
+  back-to-top-navigation: true
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles/custom.css
     toc: true
+    toc-depth: 3
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-copy: true
+    code-overflow: wrap
+    highlight-style: github
+
+# Freeze computations
+execute:
+  freeze: auto

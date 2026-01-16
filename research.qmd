@@ -1,0 +1,32 @@
+---
+title: "Research"
+description: "Publications, papers, and academic work"
+listing:
+  contents: publication
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, author, description, categories]
+  page-size: 20
+page-layout: article
+toc: true
+---
+
+## Research Interests {.section-title}
+
+My research focuses on the evaluation and improvement of large language models, particularly for domain-specific applications. Key areas include:
+
+- **LLM Evaluation**: Developing comprehensive benchmarks and evaluation frameworks
+- **Financial NLP**: Applying language models to financial analysis, compliance, and decision-making
+- **Healthcare AI**: Machine learning applications in clinical decision support and healthcare analytics
+- **Efficient ML**: Cost-aware and uncertainty-based approaches to model deployment
+
+---
+
+## Publications
+
+::: {.callout-tip appearance="simple"}
+For citation information, see individual publication pages or my [Google Scholar profile](https://scholar.google.com/).
+:::

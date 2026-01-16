@@ -1,86 +1,131 @@
 ---
-page-layout: full
+pagetitle: "Glenn Matlin - ML Researcher & Builder"
+page-layout: custom
 toc: false
-format:
-  html:
-    title-block-banner: false
-    title-block-style: none
 ---
 
-::: {.hero-banner}
-::: {.content-block}
+::: {.hero-section}
+::: {.hero-content style="display: grid; grid-template-columns: auto 1fr; gap: 3rem; align-items: center; max-width: 900px; margin: 0 auto;"}
+
+![](assets/media/glenn/glenn.png){.profile-image width="180px"}
+
 ::: {.hero-text}
-### Hi, I'm Glenn Matlin
+# Glenn Matlin
 
-I'm a technology professional specializing in machine learning, software engineering, and building innovative solutions at the intersection of research and practical applications.
+[PhD Student • ML Researcher • Builder]{.tagline}
 
-[About Me](about.qmd){.btn .btn-primary .btn-lg .me-3}
-[View Projects](projects.qmd){.btn .btn-outline-primary .btn-lg}
+Building at the intersection of AI research and real-world applications. Focused on LLM evaluation, financial ML, and turning cutting-edge research into practical tools.
+
+::: {.social-links style="margin-top: 1.5rem;"}
+[<i class="bi bi-github"></i>](https://github.com/glennmatlin){.social-link aria-label="GitHub"}
+[<i class="bi bi-linkedin"></i>](https://linkedin.com/in/glennmatlin){.social-link aria-label="LinkedIn"}
+[<i class="bi bi-envelope"></i>](mailto:glenn@glennmatlin.doctor){.social-link aria-label="Email"}
+:::
+
+[View My Work](#featured-work){.btn-gold style="margin-right: 1rem; margin-top: 1.5rem;"}
+[Download CV](uploads/resume.pdf){.btn-outline-navy style="border-color: rgba(255,255,255,0.8); color: white; margin-top: 1.5rem;"}
+:::
+
 :::
 :::
-:::
 
-## Featured Work
+::: {.container style="max-width: 1100px; margin: 0 auto; padding: 2rem 1.5rem;"}
 
-::: {.features}
+<hr class="divider-diagonal">
 
-::: {.feature-card}
-### 🚀 Latest Project
-#### [FLAME - Financial Language Model Evaluation](project/flame/)
+## Featured Work {#featured-work .section-title}
+
+::: {.grid-3}
+
+::: {.feature-card .featured}
+### 🔬 Research
+
+#### [FLAME - Financial LLM Evaluation](project/flame/)
+
 A comprehensive framework for evaluating large language models on financial domain knowledge, reasoning, and compliance tasks.
+
+[Learn More →](project/flame/){.btn-navy style="margin-top: 1rem; font-size: 0.9rem; padding: 0.5rem 1rem;"}
 :::
 
 ::: {.feature-card}
-### 📝 Recent Post
-#### [The Challenges of Evaluating Large Language Models](post/llm-evaluation-challenges/)
-An exploration of current challenges in LLM evaluation and promising approaches for more comprehensive assessment frameworks.
+### 📝 Latest Writing
+
+#### [The Challenges of Evaluating LLMs](post/llm-evaluation-challenges/)
+
+An exploration of current challenges in LLM evaluation and promising approaches for more comprehensive assessment.
+
+[Read Post →](post/llm-evaluation-challenges/){.btn-navy style="margin-top: 1rem; font-size: 0.9rem; padding: 0.5rem 1rem;"}
 :::
 
 ::: {.feature-card}
-### 📚 Latest Publication
-#### [UnfoldML at NeurIPS 2022](publication/example/)
+### 📚 Publication
+
+#### [UnfoldML @ NeurIPS 2022](publication/example/)
+
 Cost-aware and uncertainty-based framework for dynamic 2D prediction in multi-stage classification systems.
+
+[View Paper →](publication/example/){.btn-navy style="margin-top: 1rem; font-size: 0.9rem; padding: 0.5rem 1rem;"}
 :::
 
 :::
 
-## Areas of Expertise
+<hr class="divider-diagonal">
 
-::: {.expertise-grid}
-::: {.expertise-item}
-### Machine Learning & AI
-Building and evaluating ML models with focus on Large Language Models and their real-world applications.
+## Areas of Focus {.section-title}
+
+::: {.grid-2 style="margin-top: 2rem;"}
+
+::: {.feature-card}
+### Machine Learning & LLMs
+Building and evaluating ML models with focus on Large Language Models—from training dynamics to deployment challenges and domain-specific applications.
 :::
 
-::: {.expertise-item}
-### Software Engineering
-Full-stack development with modern frameworks and industry best practices for scalable solutions.
-:::
-
-::: {.expertise-item}
-### Healthcare Technology
-Leveraging technology and data science to improve healthcare outcomes and operational efficiency.
-:::
-
-::: {.expertise-item}
+::: {.feature-card}
 ### Financial Technology
-Building secure and scalable financial services with focus on compliance and user experience.
-:::
-:::
-
-## Recent Experience
-
-::: {.companies}
-I've had the privilege of working with leading organizations including **Change Healthcare**, **Komodo Health**, **LendUp**, and **RichRelevance**, where I've contributed to innovative solutions in healthcare technology, financial services, and personalization systems.
+Applying ML to finance: risk modeling, compliance automation, and building secure, scalable financial services platforms.
 :::
 
----
+::: {.feature-card}
+### Healthcare AI
+Leveraging technology and data science to improve healthcare outcomes, from clinical decision support to operational efficiency.
+:::
 
-:::: {.cta-section}
-### Let's Connect
+::: {.feature-card}
+### Research to Production
+Bridging the gap between cutting-edge research and practical applications—turning papers into products.
+:::
 
-I'm always interested in discussing new opportunities, collaborations, and interesting technical challenges.
+:::
 
-[Get in Touch](mailto:glenn@glennmatlin.doctor){.btn .btn-primary}
-[Download Resume](uploads/resume.pdf){.btn .btn-outline-primary}
-::::
+<hr class="divider-diagonal">
+
+## Experience {.section-title}
+
+::: {.timeline-item}
+**Change Healthcare** — Healthcare technology and analytics at scale
+:::
+
+::: {.timeline-item}
+**Komodo Health** — Healthcare intelligence platform and real-world evidence
+:::
+
+::: {.timeline-item}
+**LendUp** — Financial inclusion through responsible lending technology
+:::
+
+::: {.timeline-item}
+**RichRelevance** — Personalization and recommendation systems at scale
+:::
+
+:::
+
+::: {.cta-section style="background: linear-gradient(135deg, #003087, #001f5c); color: white; padding: 3rem 2rem; margin-top: 3rem; text-align: center;"}
+
+### Let's Connect {style="color: white; margin-bottom: 1rem;"}
+
+I'm always interested in discussing research collaborations, interesting problems, and new opportunities.
+
+[Get in Touch](mailto:glenn@glennmatlin.doctor){.btn-gold style="margin-right: 1rem;"}
+[Download CV](uploads/resume.pdf){.btn-outline-navy style="border-color: rgba(255,255,255,0.8); color: white;"}
+
+:::

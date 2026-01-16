@@ -1,0 +1,74 @@
+---
+title: "Curriculum Vitae"
+description: "Academic and professional background"
+toc: true
+toc-depth: 2
+---
+
+::: {style="text-align: right; margin-bottom: 2rem;"}
+[Download PDF](uploads/resume.pdf){.btn-gold}
+:::
+
+## Education {.section-title}
+
+::: {.timeline-item}
+**PhD Student** — Georgia Institute of Technology *(Expected)*
+
+Machine Learning, focusing on LLM evaluation and financial NLP
+:::
+
+## Experience {.section-title}
+
+::: {.timeline-item}
+**Change Healthcare**
+
+Healthcare technology and analytics at scale. Built ML systems for clinical insights and decision support.
+:::
+
+::: {.timeline-item}
+**Komodo Health**
+
+Healthcare intelligence platform. Real-world evidence generation, analytics pipelines, and ML infrastructure.
+:::
+
+::: {.timeline-item}
+**LendUp**
+
+Financial inclusion through responsible lending technology. Risk modeling, credit decisioning, and compliance systems.
+:::
+
+::: {.timeline-item}
+**RichRelevance**
+
+Personalization and recommendation systems. Built and deployed ML models serving millions of daily users.
+:::
+
+## Skills {.section-title}
+
+### Programming Languages
+Python, SQL, R, JavaScript, Go, Bash
+
+### Machine Learning
+PyTorch, TensorFlow, Hugging Face, scikit-learn, XGBoost, LangChain
+
+### Infrastructure
+AWS, GCP, Docker, Kubernetes, Airflow, MLflow, Ray
+
+### Domains
+NLP, LLMs, Healthcare Analytics, Financial ML, Recommendation Systems
+
+## Publications {.section-title}
+
+See my [Research page](research.qmd) for a complete list of publications.
+
+## Contact {.section-title}
+
+- **Email**: [glenn@glennmatlin.doctor](mailto:glenn@glennmatlin.doctor)
+- **GitHub**: [github.com/glennmatlin](https://github.com/glennmatlin)
+- **LinkedIn**: [linkedin.com/in/glennmatlin](https://linkedin.com/in/glennmatlin)
+
+---
+
+::: {style="text-align: center; margin-top: 2rem;"}
+[Download Full CV (PDF)](uploads/resume.pdf){.btn-navy}
+:::
