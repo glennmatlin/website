@@ -1,0 +1,140 @@
+Got it—your center of gravity is **AI for socio‑technical systems (STS)**, not hiring and not any single project like wargaming. Below is a clean, reusable set of **core artifacts** you can keep updated. I’ve foregrounded the STS narrative and your RAPID‑AI theme throughout.
+
+---
+
+## 1) One‑sentence positioning (use everywhere)
+
+**I build language‑model systems that can *reason, analyze, and plan with humans* to make high‑stakes decisions in socio‑technical settings across finance, government, security, law, and medicine.**
+
+---
+
+## 2) Dissertation title: **RAPID‑AI: Reasoning, Analysis, and Planning for Interactive Decision‑Making with Language Models**
+
+---
+
+## 3) Thesis statement (3–4 sentences)
+
+My PhD towards **RAPID‑AI**, develops methods that enable language‑model (LM) systems to support **interactive, high‑stakes decision‑making** in **socio‑technical systems (STS)**—domains where outcomes depend on both technical facts and human institutions (e.g., finance, government, security, law, medicine). I focus on three pillars: (**i**) **measurement**—constructing grounded, expert‑level evaluations of STS knowledge and reasoning; (**ii**) **training**—using curated/synthetic data, supervised fine‑tuning, and reinforcement learning to improve **reasoning, analysis, and planning**; and (**iii**) **assurance**—methods for **transparency, interpretability, and trust calibration** so humans understand and reliably use LM recommendations. The result is a general methodology and open artifacts—datasets, models, and evaluation protocols—that **transfer across domains** and raise the reliability of LM‑assisted decisions.
+
+---
+
+## 4) Abstract (≈175 words)
+
+Decision‑making in **socio‑technical systems (STS)** demands accurate knowledge, long‑horizon reasoning, and sensitivity to human constraints. Current LMs excel on narrow tasks yet remain brittle on **open‑ended, high‑stakes** problems where evidence is diffuse, rewards are ambiguous, and human values matter. **RAPID‑AI** advances LM decision support through three integrated contributions.
+**(1) Measurement:** I introduce a scalable pipeline to build **grounded, expert‑level evaluations** from authoritative STS sources, producing cited QA pairs and multi‑step tasks that test knowledge, multi‑hop reasoning, planning, and trade‑off analysis.
+**(2) Training:** I develop **curation‑to‑SFT‑to‑RL** methods that leverage structured prompts, diverse synthetic reasoning traces, and fidelity checks (citation validation, semantic deduplication, OOD filtering) to improve **generalizable reasoning** rather than domain memorization.
+**(3) Assurance:** I study **cognitive patterns** in LM chains, apply **mechanistic/behavioral interpretability** and **trust calibration** techniques, and deliver human‑facing artifacts (rationales, uncertainty signals, constraint checks) that make model behavior **legible and auditable**.
+Across finance, government, and security case studies—plus additional STS domains for generalization—RAPID‑AI demonstrates **higher reliability on in‑distribution and OOD tasks**, clearer explanations, and better human‑AI alignment for consequential decisions.
+
+---
+
+## 5) Research vision & narrative (concise, ~800 words)
+
+### Motivation
+
+Real decisions in **finance, government, security, law, and medicine** are **socio‑technical**: facts live in complex institutions; consequences are high‑stakes; and success requires not just answers but **plans, trade‑offs, and accountability**. LMs are now embedded in these workflows, yet we lack **robust ways to measure, train, and assure** their behavior for **open‑ended decision‑making**.
+
+### Core questions
+
+1. **Measurement:** How can we **systematically measure** domain‑specific knowledge and decision quality in STS using **grounded, automatically generated** evaluations?
+2. **Training:** Which **data curation, SFT, and RL** methods actually **improve reasoning, analysis, and planning**—and **transfer** across domains and novel tasks?
+3. **Assurance:** Which **transparency and calibration** techniques help practitioners **trust** and **appropriately use** LM recommendations under uncertainty and institutional constraints?
+<!-- 
+### Approach (RAPID‑AI)
+
+**A. Grounded STS evaluation pipeline.** Starting from **authoritative sources**, I normalize documents, preserve structure, and produce **chunk‑plus‑global** contexts. I then guide LM ensembles to generate **cited questions/tasks** spanning factual, multi‑hop, numeric, and planning types. Outputs carry **inline quotes/citations**, are **teacher‑graded**, **citation‑validated** (string‑match/fuzzy alignment), and **deduplicated** (embedding clusters). Difficulty is calibrated using response patterns from smaller models. This yields **weighted, diverse STS benchmarks** with clear provenance.
+
+**B. Training for generalizable reasoning.** Rather than chase pretraining scale, I focus on **tractable levers** that move reasoning quality:
+
+* **Curated & synthetic data** to cover **decision templates** (diagnose → hypothesize → plan → evaluate trade‑offs → recommend), not just single answers.
+* **Supervised fine‑tuning (SFT)** on **multi‑step, self‑consistent chains** with exact‑duplicate filtering and OOD guards to prevent shortcut learning.
+* **Reinforcement learning (RL)** with **structure‑aware rewards** (grounding, consistency, constraint satisfaction, and outcome checks) to improve planning quality, not verbosity.
+* **Sampling strategies** (e.g., multi‑sample self‑agreement) to extract stable rationales and reduce hallucinated steps.
+
+**C. Assurance and interpretability.** To make behavior **legible and auditable**, I combine:
+
+* **Mechanistic/behavioral interpretability** to identify recurrent **cognitive patterns** (e.g., premature closure, goal drift, spurious citation).
+* **Trust calibration**: deliver **uncertainty signals**, **constraint checklists**, and **evidence cards** (what was considered, what was discarded, what constraints bound the recommendation).
+* **Human‑in‑the‑loop design**: interfaces that require **justification before action**, capture **counterfactuals**, and support **red‑teaming** of plans.
+
+### Evidence and testbeds
+
+I validate across **multiple STS domains** to demonstrate **breadth and transfer**:
+
+* **Finance/regulation**: policy interpretation, audit‑style reasoning, quantitative‑textual synthesis.
+* **Government/security**: open‑ended planning and risk assessment under rules of engagement and legal/political constraints.
+* **Law/medicine**: guideline‑constrained decision‑making with traceable evidence.
+  Open‑ended **language‑based wargaming** appears as **one testbed among several**, chosen for its planning and negotiation structure—not as the sole focus.
+ -->
+
+### Impact
+
+RAPID‑AI offers **practical, auditable upgrades** to LM decision support: better **reasoning quality**, **transfer across domains**, and **transparent rationales** that help practitioners **trust but verify**. This contributes both to science (generalizable training/eval methods) and to institutions that must make decisions **safely and effectively**.
+
+---
+
+## 6) Bios (choose by length)
+
+**Ultra‑short (≤50 words)**
+**Glenn Matlin** is a PhD in Computer Science at Georgia Tech. His research, **RAPID‑AI**, develops methods for language models to **reason, analyze, and plan with humans** in **socio‑technical, high‑stakes decisions** across finance, government, security, law, and medicine.
+
+**Short (≈120 words)**
+**Glenn Matlin** is a PhD CS researcher at Georgia Tech advised by **Mark Riedl** (Associate Director, ML Center) and co‑advised by **Sudheer Chava** (Chair, Finance). He studies how to make language‑model systems **reliable for socio‑technical decision‑making** in high‑stakes domains. His dissertation, **RAPID‑AI**, integrates **grounded evaluation**, **curation‑to‑SFT‑to‑RL training**, and **assurance/interpretability** to improve **reasoning, analysis, and planning** with humans in the loop. Glenn’s work has appeared in **ACL, COLM, and NeurIPS** and has been supported in part by **DARPA**, **Together AI**, and collaborators in open‑source ecosystems.
+
+**Long (≈220–250 words)**
+**Glenn Matlin** is a PhD in Computer Science (ML) at **Georgia Tech**, advised by **Mark Riedl** and co‑advised by **Sudheer Chava**. His research targets a central challenge for modern AI: enabling language‑model systems to **support interactive, high‑stakes decisions in socio‑technical systems (STS)**—where outcomes depend on both technical facts and human institutions. Glenn’s dissertation, **RAPID‑AI (Reasoning, Analysis, and Planning for Interactive Decision‑Making with AI)**, advances three pillars: (**i**) **measurement** via grounded, expert‑level STS evaluations from authoritative sources; (**ii**) **training** via curated/synthetic data, supervised fine‑tuning, and reinforcement learning that improve **generalizable reasoning and planning**; and (**iii**) **assurance** via interpretability and trust‑calibration methods that make model behavior **legible and auditable**.
+His broader goal is **domain‑general reliability**: methods that transfer across finance, government, security, law, and medicine. Glenn’s work has been published at **ACL, COLM, NeurIPS, and AAAI** and supported in part by **DARPA** and **Together AI**. He collaborates with open‑source efforts that emphasize **open‑weight models and corpora**, and his team’s decision‑support prototypes have been recognized in competitive settings. Beyond individual applications (including wargaming as one testbed), his focus is building **general methods and artifacts**—datasets, models, and protocols—that **raise the floor** for trustworthy AI in consequential institutions.
+
+---
+
+## 7) Research thrusts (for website/CV)
+
+* **T1 — Grounded STS Evaluation:** authoritative‑source corpora → cited QAs and multi‑step tasks testing knowledge, multi‑hop reasoning, planning, and trade‑offs.
+* **T2 — Training for Reasoning & Planning:** curated + synthetic data → SFT → RL with structure‑aware rewards; OOD guards; self‑agreement sampling.
+* **T3 — Assurance & Interpretability:** cognitive‑pattern analysis, mechanistic/behavioral probes, uncertainty and constraint checks, **trust calibration**.
+* **T4 — Human‑in‑the‑Loop Interaction:** interfaces that elicit justifications, counterfactuals, and red‑teamable plans.
+
+---
+<!-- 
+## 8) Method stack (selectively show, not all at once)
+
+**LM/Training:** open‑weight LMs; Hugging Face; vLLM; LlamaFactory/DeepSpeed; Hydra; pytest; MLflow/W&B
+**Data:** polars/pyspark; Arrow/Parquet; large text corpora; citation validation; semantic dedup
+**Evaluation:** multi‑sample grading; OOD screens; difficulty calibration; reliability/assurance metrics
+**Interpretability:** mechanism‑ and behavior‑level probes; pattern mining over chains; evidence cards
+
+--- -->
+
+## 9) Website “hero” block (drop‑in)
+
+**Headline:** AI that thinks with people in socio‑technical systems
+**Subhead:** I develop methods that let language models **reason, analyze, and plan with humans** for **high‑stakes decisions**—grounded evaluations, training that improves reasoning, and assurance that earns trust.
+**Keywords:** STS · reasoning & planning · grounded evaluation · SFT/RL · interpretability · assurance
+
+---
+<!-- 
+## 10) 30‑second elevator pitch (spoken)
+
+I work on **RAPID‑AI**, a research program to make language models **reliable decision partners** in **socio‑technical systems** like finance, government, security, law, and medicine. I build **grounded evaluations** from authoritative sources, develop **curation → SFT → RL** pipelines that improve **reasoning and planning**, and add **interpretability and trust calibration** so humans can **audit and rely** on model recommendations. The aim is **domain‑general methods** and **open artifacts** that transfer across institutions where decisions matter. -->
+
+---
+<!-- 
+## 11) Evidence line (optional footnote in bios/CV)
+
+Published in **ACL, COLM, NeurIPS**; supported in part by **DARPA** and **Together AI**; competitive recognition for decision‑support prototypes. -->
+
+---
+
+## 12) Messaging guardrails (for future edits)
+
+* **Do** center **STS** and **RAPID‑AI**; **don’t** center recruitment or any single testbed.
+* **Do** say “wargaming is one testbed among several”; **don’t** frame it as the main topic.
+* **Do** emphasize **measurement → training → assurance**; **don’t** emphasize pretraining scale.
+* **Do** claim **generalization across domains**; **don’t** imply focus on only finance or only security.
+* **Do** highlight **grounding, citations, OOD, and transparency**; **don’t** overclaim capabilities.
+
+---
+
+## 13) Optional boilerplate for papers/slides (2 lines)
+
+**RAPID‑AI:** Methods for LM‑assisted decision‑making in **socio‑technical systems**—grounded evaluation, training for reasoning and planning, and assurance for **transparent, auditable use** across high‑stakes domains.

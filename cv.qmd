@@ -12,9 +12,13 @@ toc-depth: 2
 ## Education {.section-title}
 
 ::: {.timeline-item}
-**PhD Student** — Georgia Institute of Technology *(Expected)*
+**PhD in Computer Science** — Georgia Institute of Technology *(Expected)*
 
-Machine Learning, focusing on LLM evaluation and financial NLP
+**Dissertation:** RAPID-AI: Reasoning, Analysis, and Planning for Interactive Decision-Making with Language Models
+
+**Advisors:** Mark Riedl (Associate Director, ML Center) & Sudheer Chava (Chair, Finance)
+
+Focus: Language-model systems for interactive, high-stakes decision-making in socio-technical systems
 :::
 
 ## Experience {.section-title}
@@ -55,9 +59,13 @@ PyTorch, TensorFlow, Hugging Face, scikit-learn, XGBoost, LangChain
 AWS, GCP, Docker, Kubernetes, Airflow, MLflow, Ray
 
 ### Domains
-NLP, LLMs, Healthcare Analytics, Financial ML, Recommendation Systems
+Socio-Technical Systems (STS), Reasoning & Planning, Grounded Evaluation, Interpretability & Trust Calibration, NLP/LLMs, Financial ML, Healthcare Analytics
 
-## Publications {.section-title}
+## Publications & Recognition {.section-title}
+
+**Venues:** ACL, COLM, NeurIPS, AAAI
+
+**Support:** DARPA, Together AI, and collaborators in open-source ecosystems
 
 See my [Research page](research.qmd) for a complete list of publications.
 

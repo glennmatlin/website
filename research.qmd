@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: "Publications, papers, and academic work"
+description: "RAPID-AI: Reasoning, Analysis, and Planning for Interactive Decision-Making"
 listing:
   contents: publication
   sort: "date desc"
@@ -14,14 +14,39 @@ page-layout: article
 toc: true
 ---
 
-## Research Interests {.section-title}
+## RAPID-AI {.section-title}
 
-My research focuses on the evaluation and improvement of large language models, particularly for domain-specific applications. Key areas include:
+**Reasoning, Analysis, and Planning for Interactive Decision-Making with Language Models**
 
-- **LLM Evaluation**: Developing comprehensive benchmarks and evaluation frameworks
-- **Financial NLP**: Applying language models to financial analysis, compliance, and decision-making
-- **Healthcare AI**: Machine learning applications in clinical decision support and healthcare analytics
-- **Efficient ML**: Cost-aware and uncertainty-based approaches to model deployment
+My PhD develops methods that enable language-model systems to support **interactive, high-stakes decision-making** in **socio-technical systems (STS)**—domains where outcomes depend on both technical facts and human institutions (e.g., finance, government, security, law, medicine).
+
+I focus on three pillars:
+
+1. **Measurement** — constructing grounded, expert-level evaluations of STS knowledge and reasoning
+2. **Training** — using curated/synthetic data, supervised fine-tuning, and reinforcement learning to improve reasoning, analysis, and planning
+3. **Assurance** — methods for transparency, interpretability, and trust calibration so humans understand and reliably use LM recommendations
+
+The result is a general methodology and open artifacts—datasets, models, and evaluation protocols—that **transfer across domains** and raise the reliability of LM-assisted decisions.
+
+---
+
+## Research Thrusts {.section-title}
+
+### T1 — Grounded STS Evaluation
+
+Authoritative-source corpora → cited QAs and multi-step tasks testing knowledge, multi-hop reasoning, planning, and trade-offs. Outputs carry inline quotes/citations, are teacher-graded, citation-validated, and deduplicated.
+
+### T2 — Training for Reasoning & Planning
+
+Curated + synthetic data → SFT → RL with structure-aware rewards; OOD guards; self-agreement sampling. Focus on **tractable levers** that move reasoning quality—not pretraining scale.
+
+### T3 — Assurance & Interpretability
+
+Cognitive-pattern analysis, mechanistic/behavioral probes, uncertainty and constraint checks, **trust calibration**. Delivering human-facing artifacts (rationales, uncertainty signals, constraint checks) that make model behavior **legible and auditable**.
+
+### T4 — Human-in-the-Loop Interaction
+
+Interfaces that elicit justifications, counterfactuals, and red-teamable plans. Requiring **justification before action**, capturing **counterfactuals**, and supporting **red-teaming** of plans.
 
 ---
 

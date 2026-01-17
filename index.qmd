@@ -1,5 +1,5 @@
 ---
-pagetitle: "Glenn Matlin - ML Researcher & Builder"
+pagetitle: "Glenn Matlin - AI for Socio-Technical Systems"
 page-layout: custom
 toc: false
 ---
@@ -12,9 +12,9 @@ toc: false
 ::: {.hero-text}
 # Glenn Matlin
 
-[PhD Student • ML Researcher • Builder]{.tagline}
+[PhD Student • Georgia Tech • RAPID-AI]{.tagline}
 
-Building at the intersection of AI research and real-world applications. Focused on LLM evaluation, financial ML, and turning cutting-edge research into practical tools.
+**AI that thinks with people in socio-technical systems.** I develop methods that let language models reason, analyze, and plan with humans for high-stakes decisions—grounded evaluations, training that improves reasoning, and assurance that earns trust.
 
 ::: {.social-links style="margin-top: 1.5rem;"}
 [<i class="bi bi-github"></i>](https://github.com/glennmatlin){.social-link aria-label="GitHub"}
@@ -22,7 +22,7 @@ Building at the intersection of AI research and real-world applications. Focused
 [<i class="bi bi-envelope"></i>](mailto:glenn@glennmatlin.doctor){.social-link aria-label="Email"}
 :::
 
-[View My Work](#featured-work){.btn-gold style="margin-right: 1rem; margin-top: 1.5rem;"}
+[View My Research](#research-pillars){.btn-gold style="margin-right: 1rem; margin-top: 1.5rem;"}
 [Download CV](uploads/resume.pdf){.btn-outline-navy style="border-color: rgba(255,255,255,0.8); color: white; margin-top: 1.5rem;"}
 :::
 
@@ -33,12 +33,40 @@ Building at the intersection of AI research and real-world applications. Focused
 
 <hr class="divider-diagonal">
 
+## RAPID-AI Research {#research-pillars .section-title}
+
+::: {.grid-2 style="margin-top: 2rem;"}
+
+::: {.feature-card .featured}
+### T1: Grounded STS Evaluation
+Building expert-level evaluations from authoritative sources—cited QAs and multi-step tasks that test knowledge, multi-hop reasoning, planning, and trade-off analysis across socio-technical domains.
+:::
+
+::: {.feature-card}
+### T2: Training for Reasoning & Planning
+Curated and synthetic data → SFT → RL with structure-aware rewards. Developing methods that improve generalizable reasoning rather than domain memorization.
+:::
+
+::: {.feature-card}
+### T3: Assurance & Interpretability
+Cognitive-pattern analysis, mechanistic and behavioral probes, uncertainty signals, and constraint checks. Making model behavior legible and auditable for high-stakes use.
+:::
+
+::: {.feature-card}
+### T4: Human-in-the-Loop Interaction
+Interfaces that elicit justifications, capture counterfactuals, and support red-teaming of plans. Ensuring humans can trust and appropriately use LM recommendations.
+:::
+
+:::
+
+<hr class="divider-diagonal">
+
 ## Featured Work {#featured-work .section-title}
 
 ::: {.grid-3}
 
 ::: {.feature-card .featured}
-### 🔬 Research
+### Research
 
 #### [FLAME - Financial LLM Evaluation](project/flame/)
 
@@ -48,7 +76,7 @@ A comprehensive framework for evaluating large language models on financial doma
 :::
 
 ::: {.feature-card}
-### 📝 Latest Writing
+### Latest Writing
 
 #### [The Challenges of Evaluating LLMs](post/llm-evaluation-challenges/)
 
@@ -58,41 +86,13 @@ An exploration of current challenges in LLM evaluation and promising approaches 
 :::
 
 ::: {.feature-card}
-### 📚 Publication
+### Publication
 
 #### [UnfoldML @ NeurIPS 2022](publication/example/)
 
 Cost-aware and uncertainty-based framework for dynamic 2D prediction in multi-stage classification systems.
 
 [View Paper →](publication/example/){.btn-navy style="margin-top: 1rem; font-size: 0.9rem; padding: 0.5rem 1rem;"}
-:::
-
-:::
-
-<hr class="divider-diagonal">
-
-## Areas of Focus {.section-title}
-
-::: {.grid-2 style="margin-top: 2rem;"}
-
-::: {.feature-card}
-### Machine Learning & LLMs
-Building and evaluating ML models with focus on Large Language Models—from training dynamics to deployment challenges and domain-specific applications.
-:::
-
-::: {.feature-card}
-### Financial Technology
-Applying ML to finance: risk modeling, compliance automation, and building secure, scalable financial services platforms.
-:::
-
-::: {.feature-card}
-### Healthcare AI
-Leveraging technology and data science to improve healthcare outcomes, from clinical decision support to operational efficiency.
-:::
-
-::: {.feature-card}
-### Research to Production
-Bridging the gap between cutting-edge research and practical applications—turning papers into products.
 :::
 
 :::

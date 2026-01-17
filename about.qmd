@@ -22,13 +22,17 @@ about:
 
 ## Glenn Matlin {.section-title}
 
-I'm a PhD student and ML researcher building at the intersection of cutting-edge AI research and real-world applications. My work focuses on LLM evaluation, financial machine learning, and creating tools that bridge the gap between academic research and practical deployment.
+I'm a PhD CS researcher at Georgia Tech advised by **Mark Riedl** (Associate Director, ML Center) and co-advised by **Sudheer Chava** (Chair, Finance). I study how to make language-model systems **reliable for socio-technical decision-making** in high-stakes domains.
 
-### Current Focus
+My dissertation, **RAPID-AI**, integrates **grounded evaluation**, **curation-to-SFT-to-RL training**, and **assurance/interpretability** to improve **reasoning, analysis, and planning** with humans in the loop.
 
-- **LLM Evaluation**: Developing comprehensive frameworks for assessing large language models on domain-specific tasks
-- **Financial ML**: Applying machine learning to finance—risk modeling, compliance automation, and intelligent systems
-- **Research to Production**: Turning academic research into deployable, impactful tools
+My work has appeared in **ACL, COLM, and NeurIPS** and has been supported in part by **DARPA**, **Together AI**, and collaborators in open-source ecosystems.
+
+### Research Focus: RAPID-AI
+
+- **Measurement**: Grounded, expert-level evaluations of STS knowledge and reasoning from authoritative sources
+- **Training**: SFT and RL methods to improve reasoning, analysis, and planning—not just memorization
+- **Assurance**: Transparency, interpretability, and trust calibration so humans can audit and rely on model recommendations
 
 ### Experience
 
@@ -53,15 +57,15 @@ I'm a PhD student and ML researcher building at the intersection of cutting-edge
 ::: {.grid-2 style="margin-top: 1.5rem;"}
 
 ::: {.feature-card}
-**Machine Learning & AI**
+**LM Systems & Reasoning**
 
-Deep learning, transformers, LLMs, evaluation methodologies, model interpretability
+Grounded evaluation, SFT/RL for reasoning, interpretability, trust calibration, human-AI interaction
 :::
 
 ::: {.feature-card}
-**Software Engineering**
+**Socio-Technical Domains**
 
-Python, distributed systems, ML infrastructure, API design, production deployment
+Finance, government, security, law, medicine—where outcomes depend on both technical facts and human institutions
 :::
 
 :::
