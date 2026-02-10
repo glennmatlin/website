@@ -71,7 +71,7 @@ See my [Research page](research.qmd) for a complete list of publications.
 
 ## Contact {.section-title}
 
-- **Email**: [glenn@glennmatlin.doctor](mailto:glenn@glennmatlin.doctor)
+- **Email**: [<span class="email-text">loading...</span>](#contact-email)
 - **GitHub**: [github.com/glennmatlin](https://github.com/glennmatlin)
 - **LinkedIn**: [linkedin.com/in/glennmatlin](https://linkedin.com/in/glennmatlin)
 

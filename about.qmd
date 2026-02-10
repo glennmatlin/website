@@ -14,7 +14,7 @@ about:
       href: https://linkedin.com/in/glennmatlin
     - icon: envelope
       text: Email
-      href: mailto:glenn@glennmatlin.doctor
+      href: "#contact-email"
     - icon: file-pdf
       text: CV
       href: uploads/resume.pdf
@@ -72,6 +72,6 @@ Finance, government, security, law, medicine—where outcomes depend on both tec
 
 ### Let's Connect
 
-I'm always interested in discussing research collaborations, interesting technical challenges, and new opportunities. Feel free to reach out via [email](mailto:glenn@glennmatlin.doctor) or connect on [LinkedIn](https://linkedin.com/in/glennmatlin).
+I'm always interested in discussing research collaborations, interesting technical challenges, and new opportunities. Feel free to reach out via [<span class="email-text">email</span>](#contact-email) or connect on [LinkedIn](https://linkedin.com/in/glennmatlin).
 
 Explore my [research](research.qmd), [projects](projects.qmd), and [blog](blog.qmd) to learn more about my work.
