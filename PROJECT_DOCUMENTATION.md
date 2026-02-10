@@ -362,4 +362,4 @@ Key style sections:
 
 ---
 
-For questions or issues, contact: glenn@glennmatlin.doctor
+For questions or issues, contact: glenn@gatech.edu

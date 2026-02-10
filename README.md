@@ -164,7 +164,7 @@ This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) fo
 
 ## 📧 Contact
 
-Glenn Matlin - glenn@glennmatlin.doctor
+Glenn Matlin - glenn@gatech.edu
 
 ---
 

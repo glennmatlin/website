@@ -121,7 +121,7 @@ categories: [ML, NLP, etc.]
 ## URLs and Links
 - Production: https://glennmatlin.com
 - GitHub: https://github.com/gmatlin/website
-- Contact: glenn@glennmatlin.doctor
+- Contact: glenn@gatech.edu
 
 ## Quarto Documentation
 - [Quarto Websites](https://quarto.org/docs/websites/)

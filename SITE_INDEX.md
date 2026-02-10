@@ -114,7 +114,7 @@ Key CSS classes used throughout the site:
 
 - **GitHub**: [https://github.com/gmatlin](https://github.com/gmatlin)
 - **LinkedIn**: [https://linkedin.com/in/glennmatlin](https://linkedin.com/in/glennmatlin)
-- **Email**: glenn@glennmatlin.doctor
+- **Email**: glenn@gatech.edu
 
 ---
 
