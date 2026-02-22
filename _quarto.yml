@@ -87,6 +87,8 @@ format:
     code-copy: true
     code-overflow: wrap
     highlight-style: github
+    include-before-body:
+      - file: _includes/disclaimer.html
     include-after-body:
       - text: '<script src="/assets/js/email-protect.js"></script>'
 

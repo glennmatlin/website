@@ -430,3 +430,47 @@
 .cta-section p {
   color: rgba(255, 255, 255, 0.9);
 }
+
+/* Site disclaimer banner */
+.site-disclaimer {
+  background: #f8f5ec;
+  border-top: 2px solid #d4af37;
+  padding: 0.65rem 1.5rem;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: #5a4e3a;
+  text-align: center;
+  position: relative;
+  z-index: 10;
+}
+
+.site-disclaimer-inner {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.site-disclaimer-icon {
+  flex-shrink: 0;
+  color: #b8963e;
+  opacity: 0.8;
+}
+
+/* Hide disclaimer on pages with body class .no-disclaimer */
+.no-disclaimer .site-disclaimer {
+  display: none;
+}
+
+/* Dark mode */
+.quarto-dark .site-disclaimer {
+  background: #1a1a2e;
+  border-top-color: #b8963e;
+  color: #c4b898;
+}
+
+.quarto-dark .site-disclaimer-icon {
+  color: #d4af37;
+}
