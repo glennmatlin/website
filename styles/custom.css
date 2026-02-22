@@ -412,3 +412,21 @@
     color: #003087 !important;
   }
 }
+
+/* CTA / Let's Connect section */
+.cta-section {
+  background: linear-gradient(135deg, #003087, #001f5c);
+  color: white;
+  padding: 3rem 2rem;
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.cta-section h3 {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.cta-section p {
+  color: rgba(255, 255, 255, 0.9);
+}

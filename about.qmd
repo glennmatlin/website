@@ -22,11 +22,13 @@ about:
 
 ## Glenn Matlin {.section-title}
 
-I'm a PhD CS researcher at Georgia Tech advised by **Mark Riedl** (Associate Director, ML Center) and co-advised by **Sudheer Chava** (Chair, Finance). I study how to make language-model systems **reliable for socio-technical decision-making** in high-stakes domains.
+I'm a PhD CS researcher at Georgia Tech advised by **Mark Riedl** (Associate Director, ML Center) and co-advised by **Sudheer Chava** (Chair, Finance). I study how AI systems learn about humans from our data, how they generalize from patterns, and how to use those findings to improve capabilities and safety.
 
 My dissertation, **RAPID-AI**, integrates **grounded evaluation**, **curation-to-SFT-to-RL training**, and **assurance/interpretability** to improve **reasoning, analysis, and planning** with humans in the loop.
 
-My work has appeared in **ACL, COLM, and NeurIPS** and has been supported in part by **DARPA**, **Together AI**, and collaborators in open-source ecosystems.
+My work has appeared in **ACL, COLM, EMNLP, AAAI, and NeurIPS** and has been supported in part by **DARPA**, **Equifax**, **Together AI**, and collaborators in open-source ecosystems.
+
+I am currently in the **Machine Learning Alignment Theory Scholars (MATS)** program, working on post-AGI safety policy.
 
 ### Research Focus: RAPID-AI
 
@@ -52,23 +54,9 @@ My work has appeared in **ACL, COLM, and NeurIPS** and has been supported in par
 **RichRelevance** — Personalization and recommendation systems serving millions of users
 :::
 
-### Technical Interests
+### Research Interests
 
-::: {.grid-2 style="margin-top: 1.5rem;"}
-
-::: {.feature-card}
-**LM Systems & Reasoning**
-
-Grounded evaluation, SFT/RL for reasoning, interpretability, trust calibration, human-AI interaction
-:::
-
-::: {.feature-card}
-**Socio-Technical Domains**
-
-Finance, government, security, law, medicine—where outcomes depend on both technical facts and human institutions
-:::
-
-:::
+Reasoning and planning, evaluation, AI safety, and AI policy. See my [Research page](research.qmd) for details.
 
 ### Let's Connect
 

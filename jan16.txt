@@ -79,11 +79,11 @@ RAPID‑AI offers **practical, auditable upgrades** to LM decision support: bett
 **Glenn Matlin** is a PhD in Computer Science at Georgia Tech. His research, **RAPID‑AI**, develops methods for language models to **reason, analyze, and plan with humans** in **socio‑technical, high‑stakes decisions** across finance, government, security, law, and medicine.
 
 **Short (≈120 words)**
-**Glenn Matlin** is a PhD CS researcher at Georgia Tech advised by **Mark Riedl** (Associate Director, ML Center) and co‑advised by **Sudheer Chava** (Chair, Finance). He studies how to make language‑model systems **reliable for socio‑technical decision‑making** in high‑stakes domains. His dissertation, **RAPID‑AI**, integrates **grounded evaluation**, **curation‑to‑SFT‑to‑RL training**, and **assurance/interpretability** to improve **reasoning, analysis, and planning** with humans in the loop. Glenn’s work has appeared in **ACL, COLM, and NeurIPS** and has been supported in part by **DARPA**, **Together AI**, and collaborators in open‑source ecosystems.
+**Glenn Matlin** is a PhD CS researcher at Georgia Tech advised by **Mark Riedl** (Associate Director, ML Center) and co‑advised by **Sudheer Chava** (Chair, Finance). He studies how to make language‑model systems **reliable for socio‑technical decision‑making** in high‑stakes domains. His dissertation, **RAPID‑AI**, integrates **grounded evaluation**, **curation‑to‑SFT‑to‑RL training**, and **assurance/interpretability** to improve **reasoning, analysis, and planning** with humans in the loop. Glenn’s work has appeared in **ACL, COLM, EMNLP, AAAI, and NeurIPS** and has been supported in part by **DARPA**, **Equifax**, **Together AI**, and collaborators in open‑source ecosystems.
 
 **Long (≈220–250 words)**
 **Glenn Matlin** is a PhD in Computer Science (ML) at **Georgia Tech**, advised by **Mark Riedl** and co‑advised by **Sudheer Chava**. His research targets a central challenge for modern AI: enabling language‑model systems to **support interactive, high‑stakes decisions in socio‑technical systems (STS)**—where outcomes depend on both technical facts and human institutions. Glenn’s dissertation, **RAPID‑AI (Reasoning, Analysis, and Planning for Interactive Decision‑Making with AI)**, advances three pillars: (**i**) **measurement** via grounded, expert‑level STS evaluations from authoritative sources; (**ii**) **training** via curated/synthetic data, supervised fine‑tuning, and reinforcement learning that improve **generalizable reasoning and planning**; and (**iii**) **assurance** via interpretability and trust‑calibration methods that make model behavior **legible and auditable**.
-His broader goal is **domain‑general reliability**: methods that transfer across finance, government, security, law, and medicine. Glenn’s work has been published at **ACL, COLM, NeurIPS, and AAAI** and supported in part by **DARPA** and **Together AI**. He collaborates with open‑source efforts that emphasize **open‑weight models and corpora**, and his team’s decision‑support prototypes have been recognized in competitive settings. Beyond individual applications (including wargaming as one testbed), his focus is building **general methods and artifacts**—datasets, models, and protocols—that **raise the floor** for trustworthy AI in consequential institutions.
+His broader goal is **domain‑general reliability**: methods that transfer across finance, government, security, law, and medicine. Glenn’s work has been published at **ACL, COLM, EMNLP, AAAI, and NeurIPS** and supported in part by **DARPA**, **Equifax**, and **Together AI**. He collaborates with open‑source efforts that emphasize **open‑weight models and corpora**, and his team’s decision‑support prototypes have been recognized in competitive settings. Beyond individual applications (including wargaming as one testbed), his focus is building **general methods and artifacts**—datasets, models, and protocols—that **raise the floor** for trustworthy AI in consequential institutions.
 
 ---
 
@@ -121,7 +121,7 @@ I work on **RAPID‑AI**, a research program to make language models **reliable 
 <!-- 
 ## 11) Evidence line (optional footnote in bios/CV)
 
-Published in **ACL, COLM, NeurIPS**; supported in part by **DARPA** and **Together AI**; competitive recognition for decision‑support prototypes. -->
+Published in **ACL, COLM, EMNLP, AAAI, and NeurIPS**; supported in part by **DARPA**, **Equifax**, and **Together AI**; competitive recognition for decision‑support prototypes. -->
 
 ---
 

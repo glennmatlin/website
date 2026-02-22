@@ -7,15 +7,16 @@
 
 ## 1. Overview
 
-Glenn Matlin is a **Ph.D. candidate in Computer Science (Machine Learning)** at the **Georgia Institute of Technology**. His work bridges **large language models (LLMs), agent‑based AI systems, and high‑knowledge domains—especially finance**. Prior to academia he held senior data‑science roles in healthcare and fintech. His research has appeared in top venues such as **NeurIPS** and **ACL**.
+Glenn Matlin is a **Ph.D. candidate in Computer Science (Machine Learning)** at the **Georgia Institute of Technology**. His work bridges **large language models (LLMs), agent‑based AI systems, and high‑knowledge domains—especially finance**. Prior to academia he held senior data‑science roles in healthcare and fintech. His research has appeared in top venues such as **ACL, COLM, EMNLP, AAAI, and NeurIPS**.
 
 ### Key Highlights
 
 * Ph.D. student, Georgia Tech (2022 – expected 2027)
 * Creator of **RAPID AI** – *Reasoning, Analysis & Planning for Interactive Decision‑Making*
-* Funded by **DARPA (Advanced Research Concepts: Collaborative Knowledge Curation)**
+* Funded by **DARPA**, **Equifax**, and **Together AI**
 * Research focus: collaborative & autonomous AI for finance, government, and economics
-* Publications in NeurIPS 2022 and ACL; 1st‑Prize, 2023 GT School of CS Ph.D. Research & Poster Competition
+* Publications in ACL, COLM, EMNLP, AAAI, and NeurIPS; 1st Prize, 2023 GT School of CS Ph.D. Research & Poster Competition
+* Currently a **MATS Scholar** (Machine Learning Alignment Theory Scholars) working on post-AGI safety policy
 
 ## 2. RAPID AI
 

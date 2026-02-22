@@ -12,9 +12,11 @@ toc: false
 ::: {.hero-text}
 # Glenn Matlin
 
-[PhD Student • Georgia Tech • RAPID-AI]{.tagline}
+[PhD Student • Georgia Tech • MATS Scholar]{.tagline}
 
-**AI that thinks with people in socio-technical systems.** I develop methods that let language models reason, analyze, and plan with humans for high-stakes decisions—grounded evaluations, training that improves reasoning, and assurance that earns trust.
+I study how AI systems learn about humans from our data, how they generalize from patterns, and how to use those findings to improve capabilities and safety. My PhD research, **RAPID-AI**, focuses on reasoning, analysis, and planning for high-stakes decisions.
+
+Currently a **MATS Scholar** working on AI safety policy.
 
 ::: {.social-links style="margin-top: 1.5rem;"}
 [<i class="bi bi-github"></i>](https://github.com/glennmatlin){.social-link aria-label="GitHub"}
@@ -29,9 +31,10 @@ toc: false
 :::
 :::
 
-::: {.container style="max-width: 1100px; margin: 0 auto; padding: 2rem 1.5rem;"}
+:::::: {.container style="max-width: 1100px; margin: 0 auto; padding: 2rem 1.5rem;"}
 
-<hr class="divider-diagonal">
+::: {.divider-diagonal}
+:::
 
 ## RAPID-AI Research {#research-pillars .section-title}
 
@@ -59,7 +62,8 @@ Interfaces that elicit justifications, capture counterfactuals, and support red-
 
 :::
 
-<hr class="divider-diagonal">
+::: {.divider-diagonal}
+:::
 
 ## Featured Work {#featured-work .section-title}
 
@@ -97,7 +101,8 @@ Cost-aware and uncertainty-based framework for dynamic 2D prediction in multi-st
 
 :::
 
-<hr class="divider-diagonal">
+::: {.divider-diagonal}
+:::
 
 ## Experience {.section-title}
 
@@ -117,11 +122,11 @@ Cost-aware and uncertainty-based framework for dynamic 2D prediction in multi-st
 **RichRelevance** — Personalization and recommendation systems at scale
 :::
 
-:::
+::::::
 
-::: {.cta-section style="background: linear-gradient(135deg, #003087, #001f5c); color: white; padding: 3rem 2rem; margin-top: 3rem; text-align: center;"}
+::: {.cta-section}
 
-### Let's Connect {style="color: white; margin-bottom: 1rem;"}
+### Let's Connect
 
 I'm always interested in discussing research collaborations, interesting problems, and new opportunities.
 
