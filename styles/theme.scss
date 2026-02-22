@@ -1,20 +1,22 @@
 /*-- Blue Angels Inspired Theme - Light Mode --*/
 /*-- Precision. Excellence. Boldness. --*/
 
-/*-- Color Palette --*/
-$navy-primary: #003087;        /* Blue Angels navy */
-$navy-dark: #001f5c;           /* Deeper navy */
-$sky-blue: #0066CC;            /* Bright sky blue */
-$sky-light: #4d94ff;           /* Light sky accent */
-$gold-primary: #D4AF37;        /* Classic gold */
-$gold-bright: #FFD700;         /* Bright gold highlight */
-$gold-muted: #B8960C;          /* Muted gold for text */
-$cloud-white: #F8FAFC;         /* Light background */
-$cloud-gray: #E2E8F0;          /* Subtle gray */
-$text-dark: #1E293B;           /* Dark text */
-$text-muted: #64748B;          /* Muted text */
+/*-- scss:defaults --*/
 
-/*-- Bootstrap Variable Overrides --*/
+/* Color Palette */
+$navy-primary: #003087;
+$navy-dark: #001f5c;
+$sky-blue: #0066CC;
+$sky-light: #4d94ff;
+$gold-primary: #D4AF37;
+$gold-bright: #FFD700;
+$gold-muted: #B8960C;
+$cloud-white: #FAFAF7;
+$cloud-gray: #E2E8F0;
+$text-dark: #1E293B;
+$text-muted: #64748B;
+
+/* Bootstrap Variable Overrides */
 $primary: $navy-primary;
 $secondary: $sky-blue;
 $success: #10B981;
@@ -30,7 +32,8 @@ $body-color: $text-dark;
 $link-color: $navy-primary;
 $link-hover-color: $sky-blue;
 
-$font-family-sans-serif: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+$font-family-sans-serif: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+$headings-font-family: 'Fraunces', Georgia, 'Times New Roman', serif;
 $font-family-monospace: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
 
 $headings-font-weight: 600;
@@ -40,22 +43,19 @@ $border-radius: 0.5rem;
 $border-radius-lg: 0.75rem;
 $border-radius-sm: 0.375rem;
 
-/*-- Navbar --*/
+/* Navbar */
 $navbar-dark-color: rgba(255, 255, 255, 0.9);
 $navbar-dark-hover-color: $gold-bright;
 $navbar-dark-active-color: $gold-bright;
 $navbar-dark-brand-color: white;
 $navbar-dark-brand-hover-color: $gold-bright;
 
-/*-- Cards --*/
+/* Cards */
 $card-border-radius: $border-radius-lg;
 $card-border-color: $cloud-gray;
 $card-cap-bg: transparent;
 
-/*-- Import Bootstrap --*/
-@import "bootstrap/scss/bootstrap";
-
-/*-- Custom Styles --*/
+/*-- scss:rules --*/
 
 /* Gold accent underlines for headings */
 h1, h2, h3 {
@@ -90,57 +90,6 @@ h1, h2, h3 {
       color: $gold-bright !important;
       transform: translateY(-1px);
     }
-  }
-}
-
-/* Hero section */
-.hero-section {
-  background: linear-gradient(135deg, $navy-primary 0%, $navy-dark 100%);
-  color: white;
-  padding: 4rem 0;
-  position: relative;
-  overflow: hidden;
-
-  /* Diagonal contrail accent */
-  &::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    right: -10%;
-    width: 40%;
-    height: 100%;
-    background: linear-gradient(135deg, transparent 40%, rgba($gold-primary, 0.1) 50%, transparent 60%);
-    transform: skewX(-15deg);
-  }
-
-  h1 {
-    color: white;
-    font-size: 2.75rem;
-    font-weight: 700;
-  }
-
-  .tagline {
-    color: $gold-bright;
-    font-size: 1.25rem;
-    font-weight: 500;
-  }
-
-  .lead {
-    color: rgba(255, 255, 255, 0.9);
-    font-size: 1.1rem;
-  }
-}
-
-/* Profile image with gold ring */
-.profile-image {
-  border: 4px solid $gold-primary;
-  border-radius: 50%;
-  box-shadow: 0 0 0 4px rgba($gold-primary, 0.2), 0 10px 30px rgba(0, 0, 0, 0.2);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-
-  &:hover {
-    transform: scale(1.02);
-    box-shadow: 0 0 0 6px rgba($gold-primary, 0.3), 0 15px 40px rgba(0, 0, 0, 0.25);
   }
 }
 
@@ -186,31 +135,6 @@ h1, h2, h3 {
   }
 }
 
-.btn-gold {
-  background: linear-gradient(135deg, $gold-primary, $gold-muted);
-  border: none;
-  color: $navy-dark;
-  font-weight: 600;
-
-  &:hover {
-    background: linear-gradient(135deg, $gold-bright, $gold-primary);
-    color: $navy-dark;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba($gold-primary, 0.4);
-  }
-}
-
-.btn-outline-gold {
-  border: 2px solid $gold-primary;
-  color: $gold-muted;
-  background: transparent;
-
-  &:hover {
-    background: $gold-primary;
-    color: $navy-dark;
-  }
-}
-
 /* Section dividers - contrail inspired */
 .section-divider {
   height: 2px;
@@ -231,25 +155,6 @@ h1, h2, h3 {
     right: 0;
     height: 4px;
     background: linear-gradient(90deg, $navy-primary 0%, $gold-primary 50%, $navy-primary 100%);
-  }
-}
-
-/* Social icons */
-.social-icon {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  background: rgba($navy-primary, 0.1);
-  color: $navy-primary;
-  transition: all 0.2s ease;
-
-  &:hover {
-    background: $gold-primary;
-    color: $navy-dark;
-    transform: translateY(-2px);
   }
 }
 
