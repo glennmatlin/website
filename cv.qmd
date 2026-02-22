@@ -21,6 +21,14 @@ toc-depth: 2
 Focus: Language-model systems for interactive, high-stakes decision-making in socio-technical systems
 :::
 
+## Current {.section-title}
+
+::: {.timeline-item}
+**Machine Learning Alignment Theory Scholars (MATS)**
+
+Post-AGI safety policy research.
+:::
+
 ## Experience {.section-title}
 
 ::: {.timeline-item}
@@ -63,9 +71,9 @@ Socio-Technical Systems (STS), Reasoning & Planning, Grounded Evaluation, Interp
 
 ## Publications & Recognition {.section-title}
 
-**Venues:** ACL, COLM, NeurIPS, AAAI
+**Venues:** ACL, COLM, EMNLP, AAAI, NeurIPS
 
-**Support:** DARPA, Together AI, and collaborators in open-source ecosystems
+**Support:** DARPA, Equifax, Together AI, and collaborators in open-source ecosystems
 
 See my [Research page](research.qmd) for a complete list of publications.
 

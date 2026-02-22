@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+    - "post/**/*.md"
+    - "project/**/*.md"
+    - "publication/**/*.md"
 
 website:
   title: "Glenn Matlin"
@@ -46,9 +51,8 @@ website:
     background: "#003087"
     foreground: light
     left: |
-      © 2025 Glenn Matlin
-    center: |
-      Built with [Quarto](https://quarto.org)
+      © 2025-2026 Glenn Matlin
+    center: ""
     right:
       - icon: rss
         href: blog.xml
@@ -71,8 +75,8 @@ website:
 format:
   html:
     theme:
-      light: cosmo
-      dark: darkly
+      light: [cosmo, styles/theme.scss]
+      dark: [darkly, styles/theme-dark.scss]
     css: styles/custom.css
     toc: true
     toc-depth: 3
@@ -82,8 +86,11 @@ format:
     code-copy: true
     code-overflow: wrap
     highlight-style: github
+    include-before-body:
+      - file: _includes/disclaimer.html
     include-after-body:
       - text: '<script src="/assets/js/email-protect.js"></script>'
+      - text: '<script src="/assets/js/scroll-effects.js"></script>'
 
 # Freeze computations
 execute:

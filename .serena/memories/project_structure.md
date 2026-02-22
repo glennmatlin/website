@@ -22,11 +22,4 @@ website/
 ├── styles/               # Custom CSS (custom.css)
 ├── docs/                 # Documentation
 ├── _freeze/              # Quarto freeze directory (computed outputs)
-├── _footer.html          # Custom footer HTML
-├── _meta.html            # Custom meta HTML
-├── CLAUDE.md             # AI assistant instructions
-├── pyproject.toml        # Python project config
-└── .editorconfig         # Editor settings
-```
-
-Note: Content directories use singular names (post/, project/, publication/) rather than the plural names in CLAUDE.md.
+├── 

@@ -12,9 +12,11 @@ toc: false
 ::: {.hero-text}
 # Glenn Matlin
 
-[PhD Student • Georgia Tech • RAPID-AI]{.tagline}
+[PhD Student • Georgia Tech • MATS Scholar]{.tagline}
 
-**AI that thinks with people in socio-technical systems.** I develop methods that let language models reason, analyze, and plan with humans for high-stakes decisions—grounded evaluations, training that improves reasoning, and assurance that earns trust.
+I study how AI systems learn about humans from our data, how they generalize from patterns, and how to use those findings to improve capabilities and safety. My PhD research, **RAPID-AI**, focuses on reasoning, analysis, and planning for high-stakes decisions.
+
+Currently a **MATS Scholar** working on AI safety policy.
 
 ::: {.social-links style="margin-top: 1.5rem;"}
 [<i class="bi bi-github"></i>](https://github.com/glennmatlin){.social-link aria-label="GitHub"}
@@ -29,22 +31,22 @@ toc: false
 :::
 :::
 
-::: {.container style="max-width: 1100px; margin: 0 auto; padding: 2rem 1.5rem;"}
+:::::: {.container style="max-width: 1100px; margin: 0 auto; padding: 0 1.5rem;"}
 
-<hr class="divider-diagonal">
+::: {.home-section .reveal}
 
 ## RAPID-AI Research {#research-pillars .section-title}
 
-::: {.grid-2 style="margin-top: 2rem;"}
+::: {.grid-2 .reveal-stagger style="margin-top: 2rem;"}
 
 ::: {.feature-card .featured}
 ### T1: Grounded STS Evaluation
-Building expert-level evaluations from authoritative sources—cited QAs and multi-step tasks that test knowledge, multi-hop reasoning, planning, and trade-off analysis across socio-technical domains.
+Building expert-level evaluations from authoritative sources — cited QAs and multi-step tasks that test knowledge, multi-hop reasoning, planning, and trade-off analysis across socio-technical domains.
 :::
 
 ::: {.feature-card}
 ### T2: Training for Reasoning & Planning
-Curated and synthetic data → SFT → RL with structure-aware rewards. Developing methods that improve generalizable reasoning rather than domain memorization.
+Curated and synthetic data, supervised fine-tuning, and RL with structure-aware rewards. Developing methods that improve generalizable reasoning rather than domain memorization.
 :::
 
 ::: {.feature-card}
@@ -58,12 +60,13 @@ Interfaces that elicit justifications, capture counterfactuals, and support red-
 :::
 
 :::
+:::
 
-<hr class="divider-diagonal">
+::: {.home-section .alt-bg .reveal}
 
 ## Featured Work {#featured-work .section-title}
 
-::: {.grid-3}
+::: {.grid-2 .reveal-stagger}
 
 ::: {.feature-card .featured}
 ### Research
@@ -76,56 +79,33 @@ A comprehensive framework for evaluating large language models on financial doma
 :::
 
 ::: {.feature-card}
-### Latest Writing
-
-#### [The Challenges of Evaluating LLMs](post/llm-evaluation-challenges/)
-
-An exploration of current challenges in LLM evaluation and promising approaches for more comprehensive assessment.
-
-[Read Post →](post/llm-evaluation-challenges/){.btn-navy style="margin-top: 1rem; font-size: 0.9rem; padding: 0.5rem 1rem;"}
-:::
-
-::: {.feature-card}
 ### Publication
 
-#### [UnfoldML @ NeurIPS 2022](publication/example/)
+#### [UnfoldML @ NeurIPS 2022](publication/unfoldml-neurips-2022/)
 
 Cost-aware and uncertainty-based framework for dynamic 2D prediction in multi-stage classification systems.
 
-[View Paper →](publication/example/){.btn-navy style="margin-top: 1rem; font-size: 0.9rem; padding: 0.5rem 1rem;"}
+[View Paper →](publication/unfoldml-neurips-2022/){.btn-navy style="margin-top: 1rem; font-size: 0.9rem; padding: 0.5rem 1rem;"}
 :::
 
 :::
-
-<hr class="divider-diagonal">
-
-## Experience {.section-title}
-
-::: {.timeline-item}
-**Change Healthcare** — Healthcare technology and analytics at scale
 :::
 
-::: {.timeline-item}
-**Komodo Health** — Healthcare intelligence platform and real-world evidence
-:::
+::::::
 
-::: {.timeline-item}
-**LendUp** — Financial inclusion through responsible lending technology
-:::
+::: {.connect-section .reveal}
+::: {.connect-inner}
 
-::: {.timeline-item}
-**RichRelevance** — Personalization and recommendation systems at scale
-:::
-
-:::
-
-::: {.cta-section style="background: linear-gradient(135deg, #003087, #001f5c); color: white; padding: 3rem 2rem; margin-top: 3rem; text-align: center;"}
-
-### Let's Connect {style="color: white; margin-bottom: 1rem;"}
+### Let's Connect
 
 I'm always interested in discussing research collaborations, interesting problems, and new opportunities.
 
-[Get in Touch](#contact-email){.btn-gold style="margin-right: 1rem;"}
-[Download CV](uploads/resume.pdf){.btn-outline-navy style="border-color: rgba(255,255,255,0.8); color: white;"}
+::: {.connect-links}
+[<i class="bi bi-envelope"></i> Get in Touch](#contact-email){.connect-link}
+[<i class="bi bi-github"></i> GitHub](https://github.com/glennmatlin){.connect-link}
+[<i class="bi bi-linkedin"></i> LinkedIn](https://linkedin.com/in/glennmatlin){.connect-link}
+[<i class="bi bi-file-pdf"></i> Download CV](uploads/resume.pdf){.connect-link}
+:::
 
+:::
 :::

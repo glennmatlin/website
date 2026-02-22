@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: "RAPID-AI: Reasoning, Analysis, and Planning for Interactive Decision-Making"
+description: "Research interests in AI reasoning, evaluation, safety, and policy"
 listing:
   contents: publication
   sort: "date desc"
@@ -14,11 +14,41 @@ page-layout: article
 toc: true
 ---
 
-## RAPID-AI {.section-title}
+## Research Interests {.section-title}
+
+I study how AI systems learn about humans from our data, how they generalize from patterns, and how to use those findings to improve capabilities and safety.
+
+::: {.grid-2 style="margin-top: 2rem;"}
+
+::: {.feature-card .featured}
+### Reasoning, Analysis, and Planning
+How language models reason over complex, high-stakes problems. Multi-step inference, planning under constraints, and trade-off analysis in domains where decisions have real consequences.
+:::
+
+::: {.feature-card}
+### Evaluation and Measurement
+Grounded benchmarks from authoritative sources. Testing what models actually know versus what they memorize, across knowledge types and difficulty levels.
+:::
+
+::: {.feature-card}
+### AI Safety and Alignment
+Transparency, interpretability, and trust calibration. Making model behavior legible and auditable so humans can verify recommendations before acting on them.
+:::
+
+::: {.feature-card}
+### AI Policy
+Post-AGI governance, safety standards, and the institutional frameworks needed for deploying AI in high-stakes settings.
+:::
+
+:::
+
+---
+
+## Dissertation: RAPID-AI {#rapid-ai .section-title}
 
 **Reasoning, Analysis, and Planning for Interactive Decision-Making with Language Models**
 
-My PhD develops methods that enable language-model systems to support **interactive, high-stakes decision-making** in **socio-technical systems (STS)**—domains where outcomes depend on both technical facts and human institutions (e.g., finance, government, security, law, medicine).
+My PhD integrates the interests above into a unified methodology for **socio-technical systems (STS)** — domains like finance, government, security, law, and medicine where outcomes depend on both technical facts and human institutions.
 
 I focus on three pillars:
 
@@ -26,25 +56,23 @@ I focus on three pillars:
 2. **Training** — using curated/synthetic data, supervised fine-tuning, and reinforcement learning to improve reasoning, analysis, and planning
 3. **Assurance** — methods for transparency, interpretability, and trust calibration so humans understand and reliably use LM recommendations
 
-The result is a general methodology and open artifacts—datasets, models, and evaluation protocols—that **transfer across domains** and raise the reliability of LM-assisted decisions.
+The result is a general methodology and open artifacts — datasets, models, and evaluation protocols — that **transfer across domains** and raise the reliability of LM-assisted decisions.
 
----
+### Research Thrusts
 
-## Research Thrusts {.section-title}
-
-### T1 — Grounded STS Evaluation
+#### T1 — Grounded STS Evaluation
 
 Authoritative-source corpora → cited QAs and multi-step tasks testing knowledge, multi-hop reasoning, planning, and trade-offs. Outputs carry inline quotes/citations, are teacher-graded, citation-validated, and deduplicated.
 
-### T2 — Training for Reasoning & Planning
+#### T2 — Training for Reasoning & Planning
 
-Curated + synthetic data → SFT → RL with structure-aware rewards; OOD guards; self-agreement sampling. Focus on **tractable levers** that move reasoning quality—not pretraining scale.
+Curated + synthetic data → SFT → RL with structure-aware rewards; OOD guards; self-agreement sampling. Focus on **tractable levers** that move reasoning quality — not pretraining scale.
 
-### T3 — Assurance & Interpretability
+#### T3 — Assurance & Interpretability
 
 Cognitive-pattern analysis, mechanistic/behavioral probes, uncertainty and constraint checks, **trust calibration**. Delivering human-facing artifacts (rationales, uncertainty signals, constraint checks) that make model behavior **legible and auditable**.
 
-### T4 — Human-in-the-Loop Interaction
+#### T4 — Human-in-the-Loop Interaction
 
 Interfaces that elicit justifications, counterfactuals, and red-teamable plans. Requiring **justification before action**, capturing **counterfactuals**, and supporting **red-teaming** of plans.
 
