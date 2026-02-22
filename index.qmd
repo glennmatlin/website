@@ -82,11 +82,11 @@ A comprehensive framework for evaluating large language models on financial doma
 ::: {.feature-card}
 ### Latest Writing
 
-#### [The Challenges of Evaluating LLMs](post/llm-evaluation-challenges/)
+#### [Blog](blog.html)
 
-An exploration of current challenges in LLM evaluation and promising approaches for more comprehensive assessment.
+Posts on AI evaluation, reasoning, and socio-technical systems. More coming soon.
 
-[Read Post →](post/llm-evaluation-challenges/){.btn-navy style="margin-top: 1rem; font-size: 0.9rem; padding: 0.5rem 1rem;"}
+[View Blog →](blog.html){.btn-navy style="margin-top: 1rem; font-size: 0.9rem; padding: 0.5rem 1rem;"}
 :::
 
 ::: {.feature-card}
