@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: assets/media/glenn/glenn.png
+image: assets/media/glenn/headshot.jpeg
 about:
   template: trestles
   image-shape: round
@@ -22,7 +22,7 @@ about:
 
 ## Glenn Matlin {.section-title}
 
-I'm a PhD CS researcher at Georgia Tech advised by **Mark Riedl** (Associate Director, ML Center) and co-advised by **Sudheer Chava** (Chair, Finance). I study how AI systems learn about humans from our data, how they generalize from patterns, and how to use those findings to improve capabilities and safety.
+I'm a PhD CS researcher at Georgia Tech advised by **Mark Riedl** (Director, ML Center) and co-advised by **Sudheer Chava** (Chair, Finance). I study how AI systems learn about humans from our data, how they generalize from patterns, and how to use those findings to improve capabilities and safety.
 
 My dissertation, **RAPID-AI**, integrates **grounded evaluation**, **curation-to-SFT-to-RL training**, and **assurance/interpretability** to improve **reasoning, analysis, and planning** with humans in the loop.
 

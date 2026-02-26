@@ -1,5 +1,5 @@
 ---
-pagetitle: "Glenn Matlin - AI for Socio-Technical Systems"
+pagetitle: "Glenn Matlin"
 page-layout: custom
 toc: false
 ---
@@ -7,16 +7,12 @@ toc: false
 ::: {.hero-section}
 ::: {.hero-content style="display: grid; grid-template-columns: auto 1fr; gap: 3rem; align-items: center; max-width: 900px; margin: 0 auto;"}
 
-![](assets/media/glenn/glenn.png){.profile-image width="180px"}
+![](assets/media/glenn/headshot.jpeg){.profile-image width="180px"}
 
 ::: {.hero-text}
 # Glenn Matlin
 
 [PhD Student • Georgia Tech • MATS Scholar]{.tagline}
-
-I study how AI systems learn about humans from our data, how they generalize from patterns, and how to use those findings to improve capabilities and safety. My PhD research, **RAPID-AI**, focuses on reasoning, analysis, and planning for high-stakes decisions.
-
-Currently a **MATS Scholar** working on AI safety policy.
 
 ::: {.social-links style="margin-top: 1.5rem;"}
 [<i class="bi bi-github"></i>](https://github.com/glennmatlin){.social-link aria-label="GitHub"}
@@ -24,7 +20,6 @@ Currently a **MATS Scholar** working on AI safety policy.
 [<i class="bi bi-envelope"></i>](#contact-email){.social-link aria-label="Email"}
 :::
 
-[View My Research](#research-pillars){.btn-gold style="margin-right: 1rem; margin-top: 1.5rem;"}
 [Download CV](uploads/cv.pdf){.btn-outline-navy style="border-color: rgba(255,255,255,0.8); color: white; margin-top: 1.5rem;"}
 :::
 
@@ -35,60 +30,14 @@ Currently a **MATS Scholar** working on AI safety policy.
 
 ::: {.home-section .reveal}
 
-## RAPID-AI Research {#research-pillars .section-title}
+I got my start building computers and setting up networks for small businesses when I was a teenager. That curiosity about how systems work never went away -- it just shifted from hardware to data to machine learning to the questions I work on now.
 
-::: {.grid-2 .reveal-stagger style="margin-top: 2rem;"}
+After studying economics at UCF, I spent years as a data scientist in industry -- detecting rare diseases at Komodo Health, building NLP systems that processed millions of clinical records at Change Healthcare, and developing credit models at LendUp. Each role taught me something about what happens when models meet the real world: the gap between what a system optimizes for and what people actually need.
 
-::: {.feature-card .featured}
-### T1: Grounded STS Evaluation
-Building expert-level evaluations from authoritative sources — cited QAs and multi-step tasks that test knowledge, multi-hop reasoning, planning, and trade-off analysis across socio-technical domains.
-:::
+That gap brought me back to school. I'm a PhD student in computer science at Georgia Tech, advised by Mark Riedl and Sudheer Chava. My research sits at the intersection of language models and high-stakes decision-making -- how do we build AI that reasons well enough to be trusted in domains like finance, security, and healthcare? I've published work at ACL, COLM, NeurIPS, and EMNLP, and received support from DARPA and Together AI.
 
-::: {.feature-card}
-### T2: Training for Reasoning & Planning
-Curated and synthetic data, supervised fine-tuning, and RL with structure-aware rewards. Developing methods that improve generalizable reasoning rather than domain memorization.
-:::
+Right now I'm a [MATS](https://www.matsprogram.org/) Scholar, working on AI safety policy. The questions that interest me most are about how AI systems learn about humans from our data, how they generalize from those patterns, and how to make sure the results are trustworthy.
 
-::: {.feature-card}
-### T3: Assurance & Interpretability
-Cognitive-pattern analysis, mechanistic and behavioral probes, uncertainty signals, and constraint checks. Making model behavior legible and auditable for high-stakes use.
-:::
-
-::: {.feature-card}
-### T4: Human-in-the-Loop Interaction
-Interfaces that elicit justifications, capture counterfactuals, and support red-teaming of plans. Ensuring humans can trust and appropriately use LM recommendations.
-:::
-
-:::
-:::
-
-::: {.home-section .alt-bg .reveal}
-
-## Featured Work {#featured-work .section-title}
-
-::: {.grid-2 .reveal-stagger}
-
-::: {.feature-card .featured}
-### Research
-
-#### [FLAME - Financial LLM Evaluation](project/flame/)
-
-A comprehensive framework for evaluating large language models on financial domain knowledge, reasoning, and compliance tasks.
-
-[Learn More →](project/flame/){.btn-navy style="margin-top: 1rem; font-size: 0.9rem; padding: 0.5rem 1rem;"}
-:::
-
-::: {.feature-card}
-### Publication
-
-#### [UnfoldML @ NeurIPS 2022](publication/unfoldml-neurips-2022/)
-
-Cost-aware and uncertainty-based framework for dynamic 2D prediction in multi-stage classification systems.
-
-[View Paper →](publication/unfoldml-neurips-2022/){.btn-navy style="margin-top: 1rem; font-size: 0.9rem; padding: 0.5rem 1rem;"}
-:::
-
-:::
 :::
 
 ::::::

@@ -6,7 +6,7 @@ This is a Quarto-based academic website for Glenn Matlin, a PhD CS researcher at
 
 **Dissertation:** RAPID-AI: Reasoning, Analysis, and Planning for Interactive Decision-Making with Language Models
 
-**Advisors:** Mark Riedl (Associate Director, ML Center) & Sudheer Chava (Chair, Finance)
+**Advisors:** Mark Riedl (Director, ML Center) & Sudheer Chava (Chair, Finance)
 
 **Focus:** Language-model systems for interactive, high-stakes decision-making in socio-technical systems (STS)—domains where outcomes depend on both technical facts and human institutions (e.g., finance, government, security, law, medicine).
 
