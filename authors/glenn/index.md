@@ -50,12 +50,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/glennmatlin/
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
+# Link to a PDF of your CV.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'glennmatlin@gatech.edu'

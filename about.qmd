@@ -17,7 +17,7 @@ about:
       href: "#contact-email"
     - icon: file-pdf
       text: CV
-      href: uploads/resume.pdf
+      href: uploads/cv.pdf
 ---
 
 ## Glenn Matlin {.section-title}
