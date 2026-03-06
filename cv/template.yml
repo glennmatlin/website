@@ -24,7 +24,7 @@ settings:
 personal:
   name: Glenn Matlin
   titles:
-    - Ph.D. Computer Science, College of Computing, Georgia Institute of Technology
+    - Ph.D. Computer Science, College of Computing, Georgia Institute of Technology — Atlanta, USA
   location:
     city: Atlanta
     country: USA
@@ -37,9 +37,9 @@ personal:
     - network: GitHub
       username: glennmatlin
       url: https://github.com/glennmatlin
-    # - network: Website
-      # username: glennmatlin.doctor
-      # url: https://www.glennmatlin.doctor
+    - network: Website
+      username: glennmatlin.doctor
+      url: https://www.glennmatlin.doctor
 
 # ------------------------------------------------------------------
 # 3. Ordered list of CV sections
@@ -49,7 +49,7 @@ sections:
   # --- header ------------------------------------------------------
   - key: personal
     layout: header
-    include: ["titles", "location", "contact", "profiles", "citizenship"]
+    include: ["titles", "contact", "profiles", "citizenship"]
     show: true
 
   # --- Education ---------------------------------------------------
@@ -62,8 +62,8 @@ sections:
     show: true
     entries:
       - institution: Georgia Institute of Technology, School of Computer Science
-        title: Ph.D. Student
-        start-date: 01/2023
+        title: Ph.D. Candidate
+        start-date: 05/2023
         end-date: Present
         description: |
           Advised by Professor Mark Riedl, Director of Machine Learning Center, Human-Centered Artificial Intelligence Lab; College of Computing; Co-Advised by Professor Sudheer Chava, Alton M. Costley Chair Professor of Finance; Financial Services Innovation Lab, College of Business
@@ -89,20 +89,20 @@ sections:
     entries:
       - |
         *Do Language Models Agree with Human Perceptions of Suspense in Stories?*,
-        *Matlin G.*, Zhang D., Loza R., Popescu D.M., Isbell J., Chakraborty C., Riedl M.
+        **Matlin G.**, Zhang D., Loza R., Popescu D.M., Isbell J., Chakraborty C., Riedl M.
         2nd Conference on Language Models (COLM) 2025 *(Top 3% paper; 28 % acceptance rate)*. https://arxiv.org/abs/2508.15794v1
       - |
-        *Financial Language Model Evaluation (FLaME)*, **Matlin G.**, Okamoto M., Huzaifa P., Chava S., 63rd Annual Meeting of the Association of Computational Linguistics (ACL) 2025 (19 % acceptance rate). https://arxiv.org/abs/2506.15846
+        *Financial Language Model Evaluation (FLaME)*, ***Matlin G.***, Okamoto M., Huzaifa P., Chava S., 63rd Annual Meeting of the Association of Computational Linguistics (ACL) 2025 (19 % acceptance rate). https://arxiv.org/abs/2506.15846
       - |
-        *Instruction Following for Finance (IFF)*, **Matlin G.**, Siddharth, Anirudh JM, Shukla A., Hassan Y., Chava S., GenAI Finance Workshop at the Thirty-Ninth Annual Conference on Neurological Information Processing Systems (NeurIPS) 2025.
+        *Instruction Following for Finance (IFF)*, ***Matlin G.***, Siddharth, Anirudh JM, Shukla A., Hassan Y., Chava S., GenAI Finance Workshop at the Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS) 2025.
       - |
-        *Shall We Play a Game? Language Models for Open-ended Wargames*, *Matlin G.*, Mahajan P., Song I., Hao Y., Bard R., Topp S., Montoya E., Parwani M.R., Shetty S., Riedl M., Wordplay: When Language Meets Games Workshop at the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. https://arxiv.org/abs/2509.17192
+        *Shall We Play a Game? Language Models for Open-ended Wargames*, **Matlin G.**, Mahajan P., Song I., Hao Y., Bard R., Topp S., Montoya E., Parwani M.R., Shetty S., Riedl M., Wordplay: When Language Meets Games Workshop at the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. https://arxiv.org/abs/2509.17192
       - |
         *FinForge: A Semi-Synthetic Benchmark Generation Framework for Finance*, Theerthala A., Gupta A., Anirudh JM, Castilla R., Ng Y., Chava S., Workshop on Agentic AI in Financial Services at the Fortieth AAAI Conference on Artificial Intelligence (AAAI) 2026. https://arxiv.org/abs/2601.06747
       - |
-        *Trust by Design: Skill Profiles for Transparent, Cost-Aware LLM Routing*, Okamoto M., Erol A.K., *Matlin G.*, MLSys 2025 Young Professionals Symposium https://arxiv.org/abs/2602.02386
+        *Trust by Design: Skill Profiles for Transparent, Cost-Aware LLM Routing*, Okamoto M., Erol A.K., **Matlin G.**, MLSys 2025 Young Professionals Symposium https://arxiv.org/abs/2602.02386
       - |
-        *UnfoldML: Cost-Aware and Uncertainty-Based Dynamic 2D Prediction for Multi-Stage Classification*, Xu Y., Khare A., *Matlin G.*, Monish R., Zhang C., Tumanov A., 36th Annual Conference on Neural Information Processing Systems (NeurIPS) 2022 (25 % acceptance rate). https://arxiv.org/abs/2210.15056
+        *UnfoldML: Cost-Aware and Uncertainty-Based Dynamic 2D Prediction for Multi-Stage Classification*, Xu Y., Khare A., **Matlin G.**, Monish R., Zhang C., Tumanov A., 36th Annual Conference on Neural Information Processing Systems (NeurIPS) 2022 (25 % acceptance rate). https://arxiv.org/abs/2210.15056
 
 
 # SERVICE AND MEMBERSHIP
@@ -159,8 +159,8 @@ sections:
     entries:
       - institution: ML Alignment & Theory Scholars (MATS) Program
         title: Research Assistant
-        start-date: 05/2021
-        end-date: 12/2022
+        start-date: 01/2026
+        end-date: Present
       - institution: Human-Centered Artificial Intelligence Lab
         title: Research Assistant
         start-date: 07/2023
@@ -213,12 +213,12 @@ sections:
     secondary-element: ["venue"]
     show: true
     entries:
-      - title: Financial Language Model Evaluation (FLaME)
-        venue: ML@GT Student Conference 2025
-        start-date: Spring 2025
       - title: Graph-Based Retrieval Augmented Generation (GraphRAG)
         venue: 2nd Conference on Artificial Intelligence and the Future of Finance
         start-date: Fall 2025
+      - title: Financial Language Model Evaluation (FLaME)
+        venue: ML@GT Student Conference 2025
+        start-date: Spring 2025
       - title: Efficient Adaptation of Large Language Models for Domain-Specific Tasks
         venue: 1st Conference on Artificial Intelligence and the Future of Finance
         start-date: Spring 2024
@@ -274,7 +274,7 @@ sections:
 
       - institution: Komodo Health — San Francisco, CA
         title: Senior Data Scientist, Machine Learning
-        start-date: 10/2020
+        start-date: 11/2020
         end-date: 07/2021
         description: |
           Developed Machine Learning (ML) systems using clinical data to detect rare and undiagnosed diseases
@@ -305,8 +305,8 @@ sections:
 
       - institution: RichRelevance — San Francisco, CA
         title: Senior Data Analyst
-        start-date: 01/2017
-        end-date: 10/2018
+        start-date: 05/2015
+        end-date: 12/2016
         description: |
           Led data analysis and custom performance reporting for a variety of key e-Commerce clients, including Costco, Patagonia, Under Armor, driving new revenue by deploying ML recommendation systems for clients
           Spearheaded development of custom client-facing statistical reports by analyzing petabytes of unstructured Hadoop cluster logs to demonstrate lift in spending due to recommendation tools
@@ -324,7 +324,7 @@ sections:
       - institution: Southeastern Institute of Research — Richmond, VA
         title: Research Analyst
         start-date: 08/2012
-        end-date: 09/2014
+        end-date: 08/2013
         description: |
           Coordinated quantitative research and consulting with the Commonwealth of Virginia and Fortune 500s
           Organized impact studies for state legislature to quantify transportation-construction return on investment
