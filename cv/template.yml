@@ -130,10 +130,10 @@ sections:
       - title: MAGIC – Machine Assisted Global Intelligence Collection ($300,000 funding)
         institution: Defense Advanced Research Project Agency (DARPA)
         start-date: 2024
-      - title: "FiduciAIry – Mitigating Hallucinations in Financial Question Answering" ($100,000 compute credits)
+      - title: "FiduciAIry – Mitigating Hallucinations in Financial Question Answering ($100,000 compute credits)"
         institution: Georgia Institute of Technology, Institute of Data Engineering and Science (IDEaS), Cyberinfrastructure Resources CFP
         start-date: 2024
-      - title: "FinGT – Financial Generative Transformers" (600,000 CPU hours on the AMD Genoa Server as well as 36,000 hours of NVIDIA DGX H-100 GPU server usage and 172 TB of secure storage)
+      - title: "FinGT – Financial Generative Transformers (600,000 CPU hours on the AMD Genoa Server as well as 36,000 hours of NVIDIA DGX H-100 GPU server usage and 172 TB of secure storage)"
         institution: Georgia Institute of Technology, Institute of Data Engineering and Science (IDEaS), Cyberinfrastructure Resources CFP
         start-date: 2023
       - title: 1st Prize, Ph.D. Research and Poster Competition
