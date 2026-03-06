@@ -1,4 +1,4 @@
-# template.yml  – FULL CONTENT
+# template.yml  – FULL CONTENT
 
 # ------------------------------------------------------------------
 # 1. Document‑wide settings
@@ -75,10 +75,10 @@ sections:
           Coursework: Machine Learning, Deep Learning, Deep Learning with Text,
           Design of Algorithms and Data Structures, Systems for Machine Learning, Efficient Computing
       - institution: University of Central Florida, College of Business
-        title: B.A. Economics
+        title: B.A. Economics
         start-date: 2011
         description: |
-          Coursework: Statistical Analysis, Quantitative Business Analysis, Research Methodology, Decision  
+          Coursework: Statistical Analysis, Quantitative Business Analysis, Research Methodology, Decision
           Sciences, Applied Game Theory, Industrial Organization, Finance Systems
 
   # --- Publications -----------------------------------------------
@@ -88,19 +88,21 @@ sections:
     show: true
     entries:
       - |
-        *Do Language Models Agree with Human Perceptions of Suspense in Stories?*,  
-        *Matlin G.*, Zhang D., Loza R., Popescu D.M., Isbell J., Chakraborty C., Riedl M.
-        2nd Conference on Language Models (COLM) 2025 *(Top 3% paper; 28 % acceptance rate)*. https://arxiv.org/abs/2508.15794v1
+        *Do Language Models Agree with Human Perceptions of Suspense in Stories?*,
+        *Matlin G.*, Zhang D., Loza R., Popescu D.M., Isbell J., Chakraborty C., Riedl M.
+        2nd Conference on Language Models (COLM) 2025 *(Top 3% paper; 28 % acceptance rate)*. https://arxiv.org/abs/2508.15794v1
       - |
-        *Financial Language Model Evaluation (FLaME)*, **Matlin G.**, Okamoto M., Huzaifa P., Chava S., 63rd Annual Meeting of the Association of Computational Linguistics (ACL) 2025 (19 % acceptance rate). https://arxiv.org/abs/2506.15846
+        *Financial Language Model Evaluation (FLaME)*, **Matlin G.**, Okamoto M., Huzaifa P., Chava S., 63rd Annual Meeting of the Association of Computational Linguistics (ACL) 2025 (19 % acceptance rate). https://arxiv.org/abs/2506.15846
       - |
-        *Instruction Following for Finance (IFF)*, Matlin G., Siddharth, Anirudh JM, Shukla A., Hassan Y., Chava S., GenAI Finance Workshop at the Thirty-Ninth Annual Conference on Neurological Information Processing Systems (NeurIPS) 2025.
+        *Instruction Following for Finance (IFF)*, **Matlin G.**, Siddharth, Anirudh JM, Shukla A., Hassan Y., Chava S., GenAI Finance Workshop at the Thirty-Ninth Annual Conference on Neurological Information Processing Systems (NeurIPS) 2025.
       - |
-        *Shall We Play a Game? Language Models for Open-ended Wargames*, *Matlin G.*, Mahajan P., Song I., Hao Y., Bard R., Topp S., Montoya E., Parwani M.R., Shetty S., Riedl M., Wordplay: When Language Meets Games Workshop at the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. https://arxiv.org/abs/2509.17192
+        *Shall We Play a Game? Language Models for Open-ended Wargames*, *Matlin G.*, Mahajan P., Song I., Hao Y., Bard R., Topp S., Montoya E., Parwani M.R., Shetty S., Riedl M., Wordplay: When Language Meets Games Workshop at the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. https://arxiv.org/abs/2509.17192
       - |
-        *FinForge: A Semi-Synthetic Benchmark Generation Framework for Finance*, Theerthala A., Gupta A., Anirudh JM, Castilla R., Ng Y., Chava S., Workshop on Agentic AI in Financial Services at the Fortieth AAAI Conference on Artificial Intelligence (AAAI) 2026.
+        *FinForge: A Semi-Synthetic Benchmark Generation Framework for Finance*, Theerthala A., Gupta A., Anirudh JM, Castilla R., Ng Y., Chava S., Workshop on Agentic AI in Financial Services at the Fortieth AAAI Conference on Artificial Intelligence (AAAI) 2026. https://arxiv.org/abs/2601.06747
       - |
-        *UnfoldML: Cost‑Aware and Uncertainty‑Based Dynamic 2D Prediction for Multi‑Stage Classification*, Xu Y., Khare A., *Matlin G.*, Monish R., Zhang C., Tumanov A., 36th Annual Conference on Neural Information Processing Systems (NeurIPS) 2022 (25 % acceptance rate). https://arxiv.org/abs/2210.15056
+        *Trust by Design: Skill Profiles for Transparent, Cost-Aware LLM Routing*, Okamoto M., Erol A.K., *Matlin G.*, MLSys 2025 Young Professionals Symposium https://arxiv.org/abs/2602.02386
+      - |
+        *UnfoldML: Cost-Aware and Uncertainty-Based Dynamic 2D Prediction for Multi-Stage Classification*, Xu Y., Khare A., *Matlin G.*, Monish R., Zhang C., Tumanov A., 36th Annual Conference on Neural Information Processing Systems (NeurIPS) 2022 (25 % acceptance rate). https://arxiv.org/abs/2210.15056
 
 
 # SERVICE AND MEMBERSHIP
@@ -120,32 +122,32 @@ sections:
     show: true
     entries:
       - title: Fellowship ($30,000)
-        institution: Machine Learning Alignment Theory Scholars (MATS) Program
-        start-date: Spring 2026
+        institution: ML Alignment & Theory Scholars (MATS) Program
+        start-date: 2026
       - title: clAIrvoyant, AI+ Expo Hackathon 2025 ($15,000 prize money)
         institution: OpenAI, Special Competitive Studies Project
         start-date: 2025
       - title: MAGIC – Machine Assisted Global Intelligence Collection ($300,000 funding)
         institution: Defense Advanced Research Project Agency (DARPA)
         start-date: 2024
-      - title: “FiduciAIry – Mitigating Hallucinations in Financial Question Answering” ($100,000 compute credits)
+      - title: "FiduciAIry – Mitigating Hallucinations in Financial Question Answering" ($100,000 compute credits)
         institution: Georgia Institute of Technology, Institute of Data Engineering and Science (IDEaS), Cyberinfrastructure Resources CFP
         start-date: 2024
-      - title: “FinGT – Financial Generative Transformers” (600,000 CPU hours on the AMD Genoa Server as well as 36,000 hours of NVIDIA DGX H-100 GPU server usage and 172 TB of secure storage)
+      - title: "FinGT – Financial Generative Transformers" (600,000 CPU hours on the AMD Genoa Server as well as 36,000 hours of NVIDIA DGX H-100 GPU server usage and 172 TB of secure storage)
         institution: Georgia Institute of Technology, Institute of Data Engineering and Science (IDEaS), Cyberinfrastructure Resources CFP
         start-date: 2023
-      - title: 1st Prize, Ph.D. Research and Poster Competition
+      - title: 1st Prize, Ph.D. Research and Poster Competition
         institution: School of Computer Science, Georgia Institute of Technology
         start-date: 2023
-      - title: Dean’s List Scholar (4 Semesters)
+      - title: Dean's List Scholar (4 Semesters)
         institution: University of Central Florida
         start-date: 2009
         end-date: 2011
-      - title: Florida Academic Scholarship (20 % acceptance rate)
+      - title: Florida Academic Scholarship (20 % acceptance rate)
         start-date: 2006
         description: |
-          Recognizes exceptional academic achievement with a 100 % tuition award.  
-          Earned through outstanding GPA, SAT scores, and completion of 100 + service hours.
+          Recognizes exceptional academic achievement with a 100 % tuition award.
+          Earned through outstanding GPA, SAT scores, and completion of 100 + service hours.
 
   # --- Research Experience ----------------------------------------
   - key: research
@@ -155,15 +157,15 @@ sections:
     secondary-element: ["title"]
     show: true
     entries:
+      - institution: ML Alignment & Theory Scholars (MATS) Program
+        title: Research Assistant
+        start-date: 05/2021
+        end-date: 12/2022
       - institution: Human-Centered Artificial Intelligence Lab
         title: Research Assistant
-        start-date: 05/2023
+        start-date: 07/2023
         end-date: Present
       - institution: Financial Services Innovation Lab
-        title: Research Assistant
-        start-date: 05/2023
-        end-date: Present
-      - institution: Machine Learning Al
         title: Research Assistant
         start-date: 05/2023
         end-date: Present
@@ -188,20 +190,20 @@ sections:
     secondary-element: ["start-date"]
     show: true
     entries:
-      - title: CS 8803 — Artificial Intelligence Storytelling in Virtual Worlds 
+      - title: CS 7634 — Artificial Intelligence Storytelling in Virtual Worlds
+        start-date: Spring 2026
+      - title: MGMT 8803 — Machine Learning for Finance
         start-date: Fall 2025
-      - title: MGMT 8803 — Machine Learning for Finance
-        start-date: Fall 2025
-      - title: MGMT 8803 — Artificial Intelligence for Finance
+      - title: MGMT 8803 — Artificial Intelligence for Finance
         start-date: Fall 2024
-      - title: CS 7641 — Machine Learning
-        start-date: Fall 2023
+      - title: CS 7641 — Machine Learning
+        start-date: Fall 2023
         end-date: Spring 2024
-      - title: CS 6515 — Graduate Algorithms & Data Structures
-        start-date: Spring 2023
+      - title: CS 6515 — Graduate Algorithms & Data Structures
+        start-date: Spring 2023
         end-date: Summer 2023
-      - title: CS 8803 — Systems for Machine Learning
-        start-date: Fall 2022
+      - title: CS 8803 — Systems for Machine Learning
+        start-date: Fall 2022
 
   # --- Invited Talks ----------------------------------------------
   - key: invited-talks
@@ -213,51 +215,51 @@ sections:
     entries:
       - title: Financial Language Model Evaluation (FLaME)
         venue: ML@GT Student Conference 2025
-        start-date: Spring 2025
+        start-date: Spring 2025
       - title: Graph-Based Retrieval Augmented Generation (GraphRAG)
         venue: 2nd Conference on Artificial Intelligence and the Future of Finance
-        start-date: Fall 2025
-      - title: Efficient Adaptation of Large Language Models for Domain‑Specific Tasks
+        start-date: Fall 2025
+      - title: Efficient Adaptation of Large Language Models for Domain-Specific Tasks
         venue: 1st Conference on Artificial Intelligence and the Future of Finance
-        start-date: Spring 2024
+        start-date: Spring 2024
       - title: Theoretical Foundations of Natural Language Processing
-        venue: CS 7641 — Machine Learning, Georgia Tech
-        start-date: Fall 2023
+        venue: CS 7641 — Machine Learning, Georgia Tech
+        start-date: Fall 2023
       - title: Advanced Techniques for Deep Learning with Electronic Health Records
-        venue: Clinical and Patient Analytics, Children’s Healthcare of Atlanta
-        start-date: Summer 2022
+        venue: Clinical and Patient Analytics, Children's Healthcare of Atlanta
+        start-date: Summer 2022
       - title: Deep Learning with Electronic Health Records
-        venue: CS 8803 — Systems for Machine Learning, Georgia Tech
-        start-date: Fall 2021
+        venue: CS 8803 — Systems for Machine Learning, Georgia Tech
+        start-date: Fall 2021
 
   # --- Skills ------------------------------------------------------
   - key: skills
-    layout: prose          # ‘prose’ keeps the original paragraphing
+    layout: prose          # 'prose' keeps the original paragraphing
     title: Skills
     show: true
     entries:
       - |
-        *Software Engineering:*  
-        Python, Rust, Go, PyTorch, TensorFlow, Scikit‑learn, Pandas, SciPy, NumPy,  
-        Shell Scripting, Unit and Integration Testing, Continuous Integration & Deployment  
+        *Software Engineering:*
+        Python, Rust, Go, PyTorch, TensorFlow, Scikit-learn, Pandas, SciPy, NumPy,
+        Shell Scripting, Unit and Integration Testing, Continuous Integration & Deployment
 
-        *Artificial Intelligence:* 
-        Deep Learning, Generative AI, Neural Networks (Recurrent, Convolutional, Graph)  
-        Machine Learning (Trees, Regression, Embeddings, Clustering, Statistics & Probability)
+        *Artificial Intelligence:*
+        Deep Learning, Generative AI, Neural Networks (Recurrent, Convolutional, Graph)
+        Machine Learning (Trees, Regression, Embeddings, Clustering, Statistics & Probability)
 
         *Natural Language:*
-        Large Language Models (LLM), Generative Pre‑trained Transformers (GPT),  
-        Bidirectional Encoder Representation from Transformers (BERT), HuggingFace, spaCy, Gensim, NLTK
+        Large Language Models (LLM), Generative Pre-trained Transformers (GPT),
+        Bidirectional Encoder Representation from Transformers (BERT), HuggingFace, spaCy, Gensim, NLTK
 
-        *Computer Engineering:*  
-        Hardware Description Language (System Verilog), Test Benches (cocoTB),  
-        Power‑Performance‑Area Analysis, Tensor Processing Units, Systolic Arrays
+        *Computer Engineering:*
+        Hardware Description Language (System Verilog), Test Benches (cocoTB),
+        Power-Performance-Area Analysis, Tensor Processing Units, Systolic Arrays
 
-        *Systems Engineering:* 
-        Cloud Services (Amazon, Google, Azure), Cluster Computing (Spark, Kubernetes),  
-        Ray, Modin, Dask, MLFlow, Airflow, Parallelized & Distributed Computing
-        
-        *Analysis & Visualization*  
+        *Systems Engineering:*
+        Cloud Services (Amazon, Google, Azure), Cluster Computing (Spark, Kubernetes),
+        Ray, Modin, Dask, MLFlow, Airflow, Parallelized & Distributed Computing
+
+        *Analysis & Visualization*
         SQL/NoSQL, Excel, R, SAS, Tableau, SPSS, D3.js, Jupyter, Matplotlib, Plotly, Seaborn
 
   # --- Professional Experience ------------------------------------
@@ -270,77 +272,77 @@ sections:
     show: true
     entries:
 
-      - institution: Komodo Health — San Francisco, CA
+      - institution: Komodo Health — San Francisco, CA
         title: Senior Data Scientist, Machine Learning
         start-date: 10/2020
         end-date: 07/2021
         description: |
-          Developed Machine Learning (ML) systems using clinical data to detect rare and undiagnosed diseases  
-          Designed greedy optimization algorithms to solve class imbalance problems with sparse data to engineer near‑optimal datasets for ML, resulting in 4× effectiveness over previous manual process  
-          Managed a team of ML engineers focused on algorithm development, including junior mentorship  
-          Led complex cross‑functional ML projects with pharmacological and clinical subject‑matter experts
+          Developed Machine Learning (ML) systems using clinical data to detect rare and undiagnosed diseases
+          Designed greedy optimization algorithms to solve class imbalance problems with sparse data to engineer near-optimal datasets for ML, resulting in 4x effectiveness over previous manual process
+          Managed a team of ML engineers focused on algorithm development, including junior mentorship
+          Led complex cross-functional ML projects with pharmacological and clinical subject-matter experts
 
-      - institution: Change Healthcare — Emeryville, CA
+      - institution: Change Healthcare — Emeryville, CA
         title: Senior Data Scientist, Artificial Intelligence
         start-date: 01/2019
         end-date: 05/2020
         description: |
-          Led end‑to‑end development of a Deep Learning (DL) based medical bill auditing system for scanning and analyzing > 100 M pages of paper clinical records, leading to significant reduction of waste, fraud, and abuse  
-          Built production and testable code for an enterprise Natural Language Processing (NLP) system capable of launching AWS pipelines to automate manual insurance claim auditing, generating \$400 K in cost savings  
-          Managed team developing platform for information extraction and clinical predictions using a large corpora of unstructured text to enable rapid and turn‑key deployment of new models for business partners  
-          Onboarded and managed a remote team of five medical annotation specialists, labeling 360 K clinical records via programmed annotation tools to train DL models while saving \$200 K versus alternative option
+          Led end-to-end development of a Deep Learning (DL) based medical bill auditing system for scanning and analyzing > 100 M pages of paper clinical records, leading to significant reduction of waste, fraud, and abuse
+          Built production and testable code for an enterprise Natural Language Processing (NLP) system capable of launching AWS pipelines to automate manual insurance claim auditing, generating \$400 K in cost savings
+          Managed team developing platform for information extraction and clinical predictions using a large corpora of unstructured text to enable rapid and turn-key deployment of new models for business partners
+          Onboarded and managed a remote team of five medical annotation specialists, labeling 360 K clinical records via programmed annotation tools to train DL models while saving \$200 K versus alternative option
 
-      - institution: LendUp — San Francisco, CA
+      - institution: LendUp — San Francisco, CA
         title: Data Scientist
         start-date: 01/2017
         end-date: 10/2018
         description: |
-          Organized full development lifecycle of XGBoost and Logistic Regression models with Hyperopt for credit‑card underwriting, responsible for ideation, testing, validation, deployment, and iterative improvements  
-          Launched a new cross‑functional team with Growth Marketing to develop ML platform using XGBoost  
-          Developed new customer micro‑targeting when predicting marketing responses, driving \$1.5 M in revenue  
-          Rearchitected Operations Analytics Department including new user‑experience features, rebuilding data pipelines, and providing new automated reporting capabilities while eliminating years of technical debt  
-          Developed internal data‑science career program, providing technical mentorship for 20 employees across the company and successfully placing four employees in data‑analyst roles
+          Organized full development lifecycle of XGBoost and Logistic Regression models with Hyperopt for credit-card underwriting, responsible for ideation, testing, validation, deployment, and iterative improvements
+          Launched a new cross-functional team with Growth Marketing to develop ML platform using XGBoost
+          Developed new customer micro-targeting when predicting marketing responses, driving \$1.5 M in revenue
+          Rearchitected Operations Analytics Department including new user-experience features, rebuilding data pipelines, and providing new automated reporting capabilities while eliminating years of technical debt
+          Developed internal data-science career program, providing technical mentorship for 20 employees across the company and successfully placing four employees in data-analyst roles
 
-      - institution: RichRelevance — San Francisco, CA
+      - institution: RichRelevance — San Francisco, CA
         title: Senior Data Analyst
         start-date: 01/2017
         end-date: 10/2018
         description: |
-          Led data analysis and custom performance reporting for a variety of key e‑Commerce clients, including Costco, Patagonia, Under Armor, driving new revenue by deploying ML recommendation systems for clients  
-          Spearheaded development of custom client‑facing statistical reports by analyzing petabytes of unstructured Hadoop cluster logs to demonstrate lift in spending due to recommendation tools  
-          Conducted multivariate ML experiments in order to optimize collaborative‑filtering models
+          Led data analysis and custom performance reporting for a variety of key e-Commerce clients, including Costco, Patagonia, Under Armor, driving new revenue by deploying ML recommendation systems for clients
+          Spearheaded development of custom client-facing statistical reports by analyzing petabytes of unstructured Hadoop cluster logs to demonstrate lift in spending due to recommendation tools
+          Conducted multivariate ML experiments in order to optimize collaborative-filtering models
 
-      - institution: John Tyler Community College — Richmond, VA
+      - institution: John Tyler Community College — Richmond, VA
         title: Research Analyst
         start-date: 03/2014
         end-date: 04/2015
         description: |
-          Guided college administration with demographic analysis on new program design and institutional planning  
-          Forecasted long‑term demographic and economic profile of service area for institutional strategic planning  
-          Consulted with advanced‑manufacturing industry leadership on labor shortages and training gaps
+          Guided college administration with demographic analysis on new program design and institutional planning
+          Forecasted long-term demographic and economic profile of service area for institutional strategic planning
+          Consulted with advanced-manufacturing industry leadership on labor shortages and training gaps
 
-      - institution: Southeastern Institute of Research — Richmond, VA
+      - institution: Southeastern Institute of Research — Richmond, VA
         title: Research Analyst
         start-date: 08/2012
         end-date: 09/2014
         description: |
-          Coordinated quantitative research and consulting with the Commonwealth of Virginia and Fortune 500s  
-          Organized impact studies for state legislature to quantify transportation‑construction return on investment  
-          Audited waste from IT budget and migrated to Amazon Web Services, resulting in annual IT savings of \$75 K
+          Coordinated quantitative research and consulting with the Commonwealth of Virginia and Fortune 500s
+          Organized impact studies for state legislature to quantify transportation-construction return on investment
+          Audited waste from IT budget and migrated to Amazon Web Services, resulting in annual IT savings of \$75 K
 
-      - institution: Center for the Economic Analysis of Risk — Georgia State University
+      - institution: Center for the Economic Analysis of Risk — Georgia State University
         title: Research Analyst
         start-date: 01/2011
         end-date: 12/2011
         description: |
-          Conducted quantitative behavioral research on traffic patterns for the Federal Highway Administration  
-          Analyzed experimental data gathered from both virtual‑reality simulations and GPS sensors for vehicles
+          Conducted quantitative behavioral research on traffic patterns for the Federal Highway Administration
+          Analyzed experimental data gathered from both virtual-reality simulations and GPS sensors for vehicles
 
-      - institution: Self‑Employed
+      - institution: Self-Employed
         title: IT Systems Consultant
         start-date: 2002
         end-date: 2005
         description: |
-          Graduated high school at 15 and started a personal business building IT solutions for local businesses  
-          Created a remote virtual‑desktop environment using thin‑client laptops to enable agents complete mobility  
-          Implemented “paperless office” solutions to eliminate overhead costs and provide text‑search capability
+          Graduated high school at 15 and started a personal business building IT solutions for local businesses
+          Created a remote virtual-desktop environment using thin-client laptops to enable agents complete mobility
+          Implemented "paperless office" solutions to eliminate overhead costs and provide text-search capability
