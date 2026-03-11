@@ -62,13 +62,13 @@ sections:
     show: true
     entries:
       - institution: Georgia Institute of Technology, School of Computer Science
-        title: Ph.D. Candidate
+        title: "Ph.D. Candidate (GPA: 4.0/4.0)"
         start-date: 05/2023
         end-date: Present
         description: |
           Advised by Professor Mark Riedl, Director of Machine Learning Center, Human-Centered Artificial Intelligence Lab; College of Computing; Co-Advised by Professor Sudheer Chava, Alton M. Costley Chair Professor of Finance; Financial Services Innovation Lab, College of Business
       - institution: Georgia Institute of Technology, School of Computing Science
-        title: M.S. Computer Science
+        title: "M.S. Computer Science (GPA: 4.0/4.0)"
         start-date: 08/2021
         end-date: 05/2023
         description: |
@@ -88,21 +88,21 @@ sections:
     show: true
     entries:
       - |
-        *Do Language Models Agree with Human Perceptions of Suspense in Stories?*,
-        **Matlin G.**, Zhang D., Loza R., Popescu D.M., Isbell J., Chakraborty C., Riedl M.
-        2nd Conference on Language Models (COLM) 2025 *(Top 3% paper; 28 % acceptance rate)*. https://arxiv.org/abs/2508.15794v1
+        _Do Language Models Agree with Human Perceptions of Suspense in Stories?_,
+        *Matlin G.*, Zhang D., Loza R., Popescu D.M., Isbell J., Chakraborty C., Riedl M.
+        2nd Conference on Language Models (COLM) 2025 _(Top 3% paper; 28 % acceptance rate)_. https://arxiv.org/abs/2508.15794v1
       - |
-        *Financial Language Model Evaluation (FLaME)*, ***Matlin G.***, Okamoto M., Huzaifa P., Chava S., 63rd Annual Meeting of the Association of Computational Linguistics (ACL) 2025 (19 % acceptance rate). https://arxiv.org/abs/2506.15846
+        _Financial Language Model Evaluation (FLaME)_, *Matlin G.*, Okamoto M., Huzaifa P., Chava S., 63rd Annual Meeting of the Association of Computational Linguistics (ACL) 2025 (19 % acceptance rate). https://arxiv.org/abs/2506.15846
       - |
-        *Financial Instruction Following Evaluation (FIFE)*, ***Matlin G.***, Siddharth, Anirudh JM, Shukla A., Hassan Y., Chava S., GenAI Finance Workshop at the Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS) 2025. https://arxiv.org/abs/2512.08965
+        _Financial Instruction Following Evaluation (FIFE)_, *Matlin G.*, Siddharth, Anirudh JM, Shukla A., Hassan Y., Chava S., GenAI Finance Workshop at the Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS) 2025. https://arxiv.org/abs/2512.08965
       - |
-        *Shall We Play a Game? Language Models for Open-ended Wargames*, **Matlin G.**, Mahajan P., Song I., Hao Y., Bard R., Topp S., Montoya E., Parwani M.R., Shetty S., Riedl M., Wordplay: When Language Meets Games Workshop at the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. https://arxiv.org/abs/2509.17192
+        _Shall We Play a Game? Language Models for Open-ended Wargames_, *Matlin G.*, Mahajan P., Song I., Hao Y., Bard R., Topp S., Montoya E., Parwani M.R., Shetty S., Riedl M., Wordplay: When Language Meets Games Workshop at the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. https://arxiv.org/abs/2509.17192
       - |
-        *FinForge: A Semi-Synthetic Benchmark Generation Framework for Finance*, Theerthala A., Gupta A., Anirudh JM, Castilla R., Ng Y., Chava S., Workshop on Agentic AI in Financial Services at the Fortieth AAAI Conference on Artificial Intelligence (AAAI) 2026. https://arxiv.org/abs/2601.06747
+        _FinForge: Semi-Synthetic Financial Benchmark Generation_, *Matlin G.*, Theerthala A., Gupta A., Anirudh JM, Castilla R., Ng Y.M., Chava S., Workshop on Agentic AI in Financial Services at the Fortieth AAAI Conference on Artificial Intelligence (AAAI) 2026. https://arxiv.org/abs/2601.06747
       - |
-        *Trust by Design: Skill Profiles for Transparent, Cost-Aware LLM Routing*, Okamoto M., Erol A.K., **Matlin G.**, MLSys 2025 Young Professionals Symposium https://arxiv.org/abs/2602.02386
+        _Trust by Design: Skill Profiles for Transparent, Cost-Aware LLM Routing_, Okamoto M., Erol A.K., *Matlin G.*, MLSys 2025 Young Professionals Symposium https://arxiv.org/abs/2602.02386
       - |
-        *UnfoldML: Cost-Aware and Uncertainty-Based Dynamic 2D Prediction for Multi-Stage Classification*, Xu Y., Khare A., **Matlin G.**, Monish R., Zhang C., Tumanov A., 36th Annual Conference on Neural Information Processing Systems (NeurIPS) 2022 (25 % acceptance rate). https://arxiv.org/abs/2210.15056
+        _UnfoldML: Cost-Aware and Uncertainty-Based Dynamic 2D Prediction for Multi-Stage Classification_, Xu Y., Khare A., *Matlin G.*, Monish R., Zhang C., Tumanov A., 36th Annual Conference on Neural Information Processing Systems (NeurIPS) 2022 (25 % acceptance rate). https://arxiv.org/abs/2210.15056
 
 
 # SERVICE AND MEMBERSHIP
@@ -121,7 +121,7 @@ sections:
     tertiary-element: ["description"]
     show: true
     entries:
-      - title: Fellowship ($30,000)
+      - title: MATS Research Fellowship ($30,000)
         institution: ML Alignment & Theory Scholars (MATS) Program
         start-date: 2026
       - title: clAIrvoyant, AI+ Expo Hackathon 2025 ($15,000 prize money)
@@ -136,9 +136,11 @@ sections:
       - title: "FiduciAIry – Mitigating Hallucinations in Financial Question Answering ($100,000 compute credits)"
         institution: Georgia Institute of Technology, Institute of Data Engineering and Science (IDEaS), Cyberinfrastructure Resources CFP
         start-date: 2024
-      - title: "FinGT – Financial Generative Transformers (600,000 CPU hours on the AMD Genoa Server as well as 36,000 hours of NVIDIA DGX H-100 GPU server usage and 172 TB of secure storage)"
+      - title: "FinGT – Financial Generative Transformers (~$150,000 compute credits)"
         institution: Georgia Institute of Technology, Institute of Data Engineering and Science (IDEaS), Cyberinfrastructure Resources CFP
         start-date: 2023
+        description: |
+          600,000 CPU hours on AMD Genoa Server, 36,000 hours of NVIDIA DGX H-100 GPU server usage, and 172 TB of secure storage
       - title: 1st Prize, Ph.D. Research and Poster Competition
         institution: School of Computer Science, Georgia Institute of Technology
         start-date: 2023
@@ -160,6 +162,10 @@ sections:
     secondary-element: ["title"]
     show: true
     entries:
+      - institution: Berkeley Existential Risk Initiative (BERI)
+        title: Research Assistant
+        start-date: 03/2026
+        end-date: Present
       - institution: ML Alignment & Theory Scholars (MATS) Program
         title: Research Assistant
         start-date: 01/2026
@@ -364,15 +370,18 @@ profiles:
       education:
         show: true
         limit: 2
+        description-limit: 1
       publications:
         show: true
-        limit: 4
+        title: Publications
       awards:
         show: true
-        limit: 6
+        limit: 7
+        title: Featured Honors & Awards
+        hide-description: true
       research:
         show: true
-        limit: 3
+        limit: 4
       teaching:
         show: false
       invited-talks:
@@ -382,4 +391,5 @@ profiles:
       experience:
         show: true
         limit: 4
-        description-limit: 2
+        hide-description: true
+        title: Selected Professional Experience
