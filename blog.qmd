@@ -2,7 +2,7 @@
 title: "Blog"
 description: "Thoughts on ML, AI, software engineering, and building things"
 listing:
-  contents: post
+  contents: posts
   sort: "date desc"
   type: default
   categories: true

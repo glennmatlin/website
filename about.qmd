@@ -18,6 +18,9 @@ about:
     - icon: file-pdf
       text: CV
       href: uploads/cv.pdf
+    - icon: file-pdf
+      text: Resume
+      href: uploads/resume.pdf
 ---
 
 ## Glenn Matlin {.section-title}
