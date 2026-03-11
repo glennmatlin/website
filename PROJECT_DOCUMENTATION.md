@@ -4,7 +4,7 @@
 
 This is a Quarto-based personal/academic website for Glenn Matlin, featuring blog posts, research projects, academic publications, and a technical knowledge base. The site is built using Quarto, a modern scientific publishing system, and is deployed via GitHub Pages.
 
-**Live Site**: [https://glennmatlin.com](https://glennmatlin.com)
+**Live Site**: [https://www.glennmatlin.doctor](https://www.glennmatlin.doctor)
 
 ## Table of Contents
 
@@ -237,7 +237,7 @@ project:
 
 website:
   title: "Glenn Matlin"
-  site-url: "https://glennmatlin.com"
+  site-url: "https://www.glennmatlin.doctor"
   description: "Personal website of Glenn Matlin"
   navbar:
     # Navigation structure

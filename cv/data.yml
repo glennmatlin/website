@@ -67,7 +67,7 @@ sections:
         end-date: Present
         description: |
           Advised by Professor Mark Riedl, Director of Machine Learning Center, Human-Centered Artificial Intelligence Lab; College of Computing; Co-Advised by Professor Sudheer Chava, Alton M. Costley Chair Professor of Finance; Financial Services Innovation Lab, College of Business
-      - institution: Georgia Institute of Technology, School of Computing Science
+      - institution: Georgia Institute of Technology, School of Computer Science
         title: "M.S. Computer Science (GPA: 4.0/4.0)"
         start-date: 08/2021
         end-date: 05/2023
@@ -92,7 +92,7 @@ sections:
         *Matlin G.*, Zhang D., Loza R., Popescu D.M., Isbell J., Chakraborty C., Riedl M.
         2nd Conference on Language Models (COLM) 2025 _(Top 3% paper; 28 % acceptance rate)_. https://arxiv.org/abs/2508.15794v1
       - |
-        _Financial Language Model Evaluation (FLaME)_, *Matlin G.*, Okamoto M., Huzaifa P., Chava S., 63rd Annual Meeting of the Association of Computational Linguistics (ACL) 2025 (19 % acceptance rate). https://arxiv.org/abs/2506.15846
+        _Financial Language Model Evaluation (FLaME)_, *Matlin G.*, Okamoto M., Pardawala H., Yang Y., Chava S., Findings of the Association for Computational Linguistics: ACL 2025. https://arxiv.org/abs/2506.15846
       - |
         _Financial Instruction Following Evaluation (FIFE)_, *Matlin G.*, Siddharth, Anirudh JM, Shukla A., Hassan Y., Chava S., GenAI Finance Workshop at the Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS) 2025. https://arxiv.org/abs/2512.08965
       - |

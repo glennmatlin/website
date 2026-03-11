@@ -2,7 +2,8 @@
 title: "Financial Instruction Following Evaluation (FIFE)"
 author:
   - "Glenn Matlin"
-  - "JM Anirudh"
+  - "Siddharth"
+  - "Anirudh JM"
   - "Aditya Shukla"
   - "Yahya Hassan"
   - "Sudheer Chava"
@@ -12,6 +13,8 @@ description: "A novel, high-difficulty benchmark designed to assess LM instructi
 ---
 
 ## Publication Details
+
+**Venue:** GenAI Finance Workshop at the 39th Annual Conference on Neural Information Processing Systems (NeurIPS) 2025
 
 **arXiv:** [2512.08965](https://arxiv.org/abs/2512.08965)
 

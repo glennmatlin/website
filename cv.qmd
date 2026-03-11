@@ -5,6 +5,8 @@ toc: true
 toc-depth: 2
 ---
 
+<!-- Content mirrors cv/data.yml — keep in sync when updating -->
+
 ::: {style="text-align: right; margin-bottom: 2rem;"}
 [Download CV](uploads/cv.pdf){.btn-gold} [Download Resume](uploads/resume.pdf){.btn-navy}
 :::
@@ -12,76 +14,316 @@ toc-depth: 2
 ## Education {.section-title}
 
 ::: {.timeline-item}
-**PhD in Computer Science** — Georgia Institute of Technology *(Expected)*
+**Georgia Institute of Technology, School of Computer Science** | 05/2023 – Present
 
-**Dissertation:** RAPID-AI: Reasoning, Analysis, and Planning for Interactive Decision-Making with Language Models
+Ph.D. Candidate (GPA: 4.0/4.0)
 
-**Advisors:** Mark Riedl (Director, ML Center) & Sudheer Chava (Chair, Finance)
-
-Focus: Language-model systems for interactive, high-stakes decision-making in socio-technical systems
-:::
-
-## Current {.section-title}
-
-::: {.timeline-item}
-**Machine Learning Alignment Theory Scholars (MATS)**
-
-Post-AGI safety policy research.
-:::
-
-## Experience {.section-title}
-
-::: {.timeline-item}
-**Change Healthcare**
-
-Healthcare technology and analytics at scale. Built ML systems for clinical insights and decision support.
+Advised by Professor Mark Riedl, Director of Machine Learning Center, Human-Centered Artificial Intelligence Lab; College of Computing; Co-Advised by Professor Sudheer Chava, Alton M. Costley Chair Professor of Finance; Financial Services Innovation Lab, College of Business
 :::
 
 ::: {.timeline-item}
-**Komodo Health**
+**Georgia Institute of Technology, School of Computer Science** | 08/2021 – 05/2023
 
-Healthcare intelligence platform. Real-world evidence generation, analytics pipelines, and ML infrastructure.
+M.S. Computer Science (GPA: 4.0/4.0)
+
+Coursework: Machine Learning, Deep Learning, Deep Learning with Text, Design of Algorithms and Data Structures, Systems for Machine Learning, Efficient Computing
 :::
 
 ::: {.timeline-item}
-**LendUp**
+**University of Central Florida, College of Business** | 2011
 
-Financial inclusion through responsible lending technology. Risk modeling, credit decisioning, and compliance systems.
+B.A. Economics
+
+Coursework: Statistical Analysis, Quantitative Business Analysis, Research Methodology, Decision Sciences, Applied Game Theory, Industrial Organization, Finance Systems
+:::
+
+## Publications {.section-title}
+
+1. *Do Language Models Agree with Human Perceptions of Suspense in Stories?*, **Matlin G.**, Zhang D., Loza R., Popescu D.M., Isbell J., Chakraborty C., Riedl M. 2nd Conference on Language Models (COLM) 2025 *(Top 3% paper; 28% acceptance rate)*. [arXiv:2508.15794](https://arxiv.org/abs/2508.15794v1)
+
+2. *Financial Language Model Evaluation (FLaME)*, **Matlin G.**, Okamoto M., Pardawala H., Yang Y., Chava S., Findings of the Association for Computational Linguistics: ACL 2025. [arXiv:2506.15846](https://arxiv.org/abs/2506.15846)
+
+3. *Financial Instruction Following Evaluation (FIFE)*, **Matlin G.**, Siddharth, Anirudh JM, Shukla A., Hassan Y., Chava S., GenAI Finance Workshop at the 39th Annual Conference on Neural Information Processing Systems (NeurIPS) 2025. [arXiv:2512.08965](https://arxiv.org/abs/2512.08965)
+
+4. *Shall We Play a Game? Language Models for Open-ended Wargames*, **Matlin G.**, Mahajan P., Song I., Hao Y., Bard R., Topp S., Montoya E., Parwani M.R., Shetty S., Riedl M., Wordplay: When Language Meets Games Workshop at the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. [arXiv:2509.17192](https://arxiv.org/abs/2509.17192)
+
+5. *FinForge: Semi-Synthetic Financial Benchmark Generation*, **Matlin G.**, Theerthala A., Gupta A., Anirudh JM, Castilla R., Ng Y.M., Chava S., Workshop on Agentic AI in Financial Services at the 40th AAAI Conference on Artificial Intelligence (AAAI) 2026. [arXiv:2601.06747](https://arxiv.org/abs/2601.06747)
+
+6. *Trust by Design: Skill Profiles for Transparent, Cost-Aware LLM Routing*, Okamoto M., Erol A.K., **Matlin G.**, MLSys 2025 Young Professionals Symposium. [arXiv:2602.02386](https://arxiv.org/abs/2602.02386)
+
+7. *UnfoldML: Cost-Aware and Uncertainty-Based Dynamic 2D Prediction for Multi-Stage Classification*, Xu Y., Khare A., **Matlin G.**, Monish R., Zhang C., Tumanov A., 36th Annual Conference on Neural Information Processing Systems (NeurIPS) 2022 (25% acceptance rate). [arXiv:2210.15056](https://arxiv.org/abs/2210.15056)
+
+## Honors & Awards {.section-title}
+
+::: {.timeline-item}
+**MATS Research Fellowship ($30,000)** | 2026
+
+ML Alignment & Theory Scholars (MATS) Program
 :::
 
 ::: {.timeline-item}
-**RichRelevance**
+**clAIrvoyant, AI+ Expo Hackathon 2025 ($15,000 prize money)** | 2025
 
-Personalization and recommendation systems. Built and deployed ML models serving millions of daily users.
+OpenAI, Special Competitive Studies Project
+:::
+
+::: {.timeline-item}
+**Accelerate — 3,000,000 ACCESS Credits (~$100,000 compute credits)** | 2025
+
+National Science Foundation (NSF), Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support (ACCESS)
+:::
+
+::: {.timeline-item}
+**MAGIC — Machine Assisted Global Intelligence Collection ($300,000 funding)** | 2024
+
+Defense Advanced Research Project Agency (DARPA)
+:::
+
+::: {.timeline-item}
+**FiduciAIry — Mitigating Hallucinations in Financial Question Answering ($100,000 compute credits)** | 2024
+
+Georgia Institute of Technology, Institute of Data Engineering and Science (IDEaS), Cyberinfrastructure Resources CFP
+:::
+
+::: {.timeline-item}
+**FinGT — Financial Generative Transformers (~$150,000 compute credits)** | 2023
+
+Georgia Institute of Technology, Institute of Data Engineering and Science (IDEaS), Cyberinfrastructure Resources CFP
+
+600,000 CPU hours on AMD Genoa Server, 36,000 hours of NVIDIA DGX H-100 GPU server usage, and 172 TB of secure storage
+:::
+
+::: {.timeline-item}
+**1st Prize, Ph.D. Research and Poster Competition** | 2023
+
+School of Computer Science, Georgia Institute of Technology
+:::
+
+::: {.timeline-item}
+**Dean's List Scholar (4 Semesters)** | 2009 – 2011
+
+University of Central Florida
+:::
+
+::: {.timeline-item}
+**Florida Academic Scholarship (20% acceptance rate)** | 2006
+
+Recognizes exceptional academic achievement with a 100% tuition award. Earned through outstanding GPA, SAT scores, and completion of 100+ service hours.
+:::
+
+## Research Experience {.section-title}
+
+::: {.timeline-item}
+**Berkeley Existential Risk Initiative (BERI)** | 03/2026 – Present
+
+Research Assistant
+:::
+
+::: {.timeline-item}
+**ML Alignment & Theory Scholars (MATS) Program** | 01/2026 – Present
+
+Research Assistant
+:::
+
+::: {.timeline-item}
+**Human-Centered Artificial Intelligence Lab** | 07/2023 – Present
+
+Research Assistant
+:::
+
+::: {.timeline-item}
+**Financial Services Innovation Lab** | 05/2023 – Present
+
+Research Assistant
+:::
+
+::: {.timeline-item}
+**Lemurian Labs** | 05/2023 – 09/2023
+
+Research Intern
+:::
+
+::: {.timeline-item}
+**Children's Healthcare of Atlanta** | 06/2022 – 08/2022
+
+Research Intern
+:::
+
+::: {.timeline-item}
+**Systems for Artificial Intelligence Lab** | 01/2022 – 05/2023
+
+Research Assistant
+:::
+
+## Teaching Experience {.section-title}
+
+::: {.timeline-item}
+**CS 7634 — Artificial Intelligence Storytelling in Virtual Worlds** | Spring 2026
+:::
+
+::: {.timeline-item}
+**MGMT 8803 — Machine Learning for Finance** | Fall 2025
+:::
+
+::: {.timeline-item}
+**MGMT 8803 — Artificial Intelligence for Finance** | Fall 2024
+:::
+
+::: {.timeline-item}
+**CS 7641 — Machine Learning** | Fall 2023 – Spring 2024
+:::
+
+::: {.timeline-item}
+**CS 6515 — Graduate Algorithms & Data Structures** | Spring 2023 – Summer 2023
+:::
+
+::: {.timeline-item}
+**CS 8803 — Systems for Machine Learning** | Fall 2022
+:::
+
+## Invited Talks {.section-title}
+
+::: {.timeline-item}
+**Graph-Based Retrieval Augmented Generation (GraphRAG)** | Fall 2025
+
+2nd Conference on Artificial Intelligence and the Future of Finance
+:::
+
+::: {.timeline-item}
+**Financial Language Model Evaluation (FLaME)** | Spring 2025
+
+ML@GT Student Conference 2025
+:::
+
+::: {.timeline-item}
+**Efficient Adaptation of Large Language Models for Domain-Specific Tasks** | Spring 2024
+
+1st Conference on Artificial Intelligence and the Future of Finance
+:::
+
+::: {.timeline-item}
+**Theoretical Foundations of Natural Language Processing** | Fall 2023
+
+CS 7641 — Machine Learning, Georgia Tech
+:::
+
+::: {.timeline-item}
+**Advanced Techniques for Deep Learning with Electronic Health Records** | Summer 2022
+
+Clinical and Patient Analytics, Children's Healthcare of Atlanta
+:::
+
+::: {.timeline-item}
+**Deep Learning with Electronic Health Records** | Fall 2021
+
+CS 8803 — Systems for Machine Learning, Georgia Tech
 :::
 
 ## Skills {.section-title}
 
-### Programming Languages
-Python, SQL, R, JavaScript, Go, Bash
+**Software Engineering:** Python, Rust, Go, PyTorch, TensorFlow, Scikit-learn, Pandas, SciPy, NumPy, Shell Scripting, Unit and Integration Testing, Continuous Integration & Deployment
 
-### Machine Learning
-PyTorch, TensorFlow, Hugging Face, scikit-learn, XGBoost, LangChain
+**Artificial Intelligence:** Deep Learning, Generative AI, Neural Networks (Recurrent, Convolutional, Graph), Machine Learning (Trees, Regression, Embeddings, Clustering, Statistics & Probability)
 
-### Infrastructure
-AWS, GCP, Docker, Kubernetes, Airflow, MLflow, Ray
+**Natural Language:** Large Language Models (LLM), Generative Pre-trained Transformers (GPT), Bidirectional Encoder Representation from Transformers (BERT), HuggingFace, spaCy, Gensim, NLTK
 
-### Domains
-Socio-Technical Systems (STS), Reasoning & Planning, Grounded Evaluation, Interpretability & Trust Calibration, NLP/LLMs, Financial ML, Healthcare Analytics
+**Computer Engineering:** Hardware Description Language (System Verilog), Test Benches (cocoTB), Power-Performance-Area Analysis, Tensor Processing Units, Systolic Arrays
 
-## Publications & Recognition {.section-title}
+**Systems Engineering:** Cloud Services (Amazon, Google, Azure), Cluster Computing (Spark, Kubernetes), Ray, Modin, Dask, MLFlow, Airflow, Parallelized & Distributed Computing
 
-**Venues:** ACL, COLM, EMNLP, AAAI, NeurIPS
+**Analysis & Visualization:** SQL/NoSQL, Excel, R, SAS, Tableau, SPSS, D3.js, Jupyter, Matplotlib, Plotly, Seaborn
 
-**Support:** DARPA, Equifax, Together AI, and collaborators in open-source ecosystems
+## Professional Experience {.section-title}
 
-See my [Research page](research.qmd) for a complete list of publications.
+::: {.timeline-item}
+**Komodo Health — San Francisco, CA** | 11/2020 – 07/2021
+
+Senior Data Scientist, Machine Learning
+
+- Developed Machine Learning (ML) systems using clinical data to detect rare and undiagnosed diseases
+- Designed greedy optimization algorithms to solve class imbalance problems with sparse data to engineer near-optimal datasets for ML, resulting in 4x effectiveness over previous manual process
+- Managed a team of ML engineers focused on algorithm development, including junior mentorship
+- Led complex cross-functional ML projects with pharmacological and clinical subject-matter experts
+:::
+
+::: {.timeline-item}
+**Change Healthcare — Emeryville, CA** | 01/2019 – 05/2020
+
+Senior Data Scientist, Artificial Intelligence
+
+- Led end-to-end development of a Deep Learning (DL) based medical bill auditing system for scanning and analyzing > 100M pages of paper clinical records, leading to significant reduction of waste, fraud, and abuse
+- Built production and testable code for an enterprise Natural Language Processing (NLP) system capable of launching AWS pipelines to automate manual insurance claim auditing, generating $400K in cost savings
+- Managed team developing platform for information extraction and clinical predictions using a large corpora of unstructured text to enable rapid and turn-key deployment of new models for business partners
+- Onboarded and managed a remote team of five medical annotation specialists, labeling 360K clinical records via programmed annotation tools to train DL models while saving $200K versus alternative option
+:::
+
+::: {.timeline-item}
+**LendUp — San Francisco, CA** | 01/2017 – 10/2018
+
+Data Scientist
+
+- Organized full development lifecycle of XGBoost and Logistic Regression models with Hyperopt for credit-card underwriting, responsible for ideation, testing, validation, deployment, and iterative improvements
+- Launched a new cross-functional team with Growth Marketing to develop ML platform using XGBoost
+- Developed new customer micro-targeting when predicting marketing responses, driving $1.5M in revenue
+- Rearchitected Operations Analytics Department including new user-experience features, rebuilding data pipelines, and providing new automated reporting capabilities while eliminating years of technical debt
+- Developed internal data-science career program, providing technical mentorship for 20 employees across the company and successfully placing four employees in data-analyst roles
+:::
+
+::: {.timeline-item}
+**RichRelevance — San Francisco, CA** | 05/2015 – 12/2016
+
+Senior Data Analyst
+
+- Led data analysis and custom performance reporting for a variety of key e-Commerce clients, including Costco, Patagonia, Under Armor, driving new revenue by deploying ML recommendation systems for clients
+- Spearheaded development of custom client-facing statistical reports by analyzing petabytes of unstructured Hadoop cluster logs to demonstrate lift in spending due to recommendation tools
+- Conducted multivariate ML experiments in order to optimize collaborative-filtering models
+:::
+
+::: {.timeline-item}
+**John Tyler Community College — Richmond, VA** | 03/2014 – 04/2015
+
+Research Analyst
+
+- Guided college administration with demographic analysis on new program design and institutional planning
+- Forecasted long-term demographic and economic profile of service area for institutional strategic planning
+- Consulted with advanced-manufacturing industry leadership on labor shortages and training gaps
+:::
+
+::: {.timeline-item}
+**Southeastern Institute of Research — Richmond, VA** | 08/2012 – 08/2013
+
+Research Analyst
+
+- Coordinated quantitative research and consulting with the Commonwealth of Virginia and Fortune 500s
+- Organized impact studies for state legislature to quantify transportation-construction return on investment
+- Audited waste from IT budget and migrated to Amazon Web Services, resulting in annual IT savings of $75K
+:::
+
+::: {.timeline-item}
+**Center for the Economic Analysis of Risk — Georgia State University** | 01/2011 – 12/2011
+
+Research Analyst
+
+- Conducted quantitative behavioral research on traffic patterns for the Federal Highway Administration
+- Analyzed experimental data gathered from both virtual-reality simulations and GPS sensors for vehicles
+:::
+
+::: {.timeline-item}
+**Self-Employed** | 2002 – 2005
+
+IT Systems Consultant
+
+- Graduated high school at 15 and started a personal business building IT solutions for local businesses
+- Created a remote virtual-desktop environment using thin-client laptops to enable agents complete mobility
+- Implemented "paperless office" solutions to eliminate overhead costs and provide text-search capability
+:::
 
 ## Contact {.section-title}
 
 - **Email**: [<span class="email-text">loading...</span>](#contact-email)
 - **GitHub**: [github.com/glennmatlin](https://github.com/glennmatlin)
 - **LinkedIn**: [linkedin.com/in/glennmatlin](https://linkedin.com/in/glennmatlin)
+- **Website**: [www.glennmatlin.doctor](https://www.glennmatlin.doctor)
 
 ---
 

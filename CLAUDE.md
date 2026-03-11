@@ -119,8 +119,8 @@ categories: [ML, NLP, etc.]
 4. Push to main - GitHub Actions auto-deploys
 
 ## URLs and Links
-- Production: https://glennmatlin.com
-- GitHub: https://github.com/gmatlin/website
+- Production: https://www.glennmatlin.doctor
+- GitHub: https://github.com/glennmatlin/website
 - Contact: glenn@gatech.edu
 
 ## Quarto Documentation

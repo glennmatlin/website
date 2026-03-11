@@ -13,6 +13,6 @@ This will:
 2. Push to the gh-pages branch
 3. GitHub Pages will serve the updated site
 
-After deployment, the site will be live at https://glennmatlin.com
+After deployment, the site will be live at https://www.glennmatlin.doctor
 
 Note: Ensure all changes are committed before deploying.

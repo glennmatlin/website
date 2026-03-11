@@ -2,7 +2,7 @@
 
 [![Quarto](https://img.shields.io/badge/Built%20with-Quarto-blue)](https://quarto.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE.md)
-[![Website](https://img.shields.io/badge/Website-glennmatlin.com-brightgreen)](https://glennmatlin.com)
+[![Website](https://img.shields.io/badge/Website-www.glennmatlin.doctor-brightgreen)](https://www.glennmatlin.doctor)
 
 Personal academic website featuring blog posts, research projects, publications, and technical documentation.
 
