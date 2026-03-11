@@ -4,7 +4,7 @@
 // #import "../cv.typ": *
 
 // Import your CV data
-#let cv-data = yaml("template.yml")
+#let cv-data = yaml("data.yml")
 
 // Validate that required fields exist in each section
 #for section in cv-data.sections {

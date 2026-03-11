@@ -94,7 +94,7 @@ sections:
       - |
         *Financial Language Model Evaluation (FLaME)*, ***Matlin G.***, Okamoto M., Huzaifa P., Chava S., 63rd Annual Meeting of the Association of Computational Linguistics (ACL) 2025 (19 % acceptance rate). https://arxiv.org/abs/2506.15846
       - |
-        *Instruction Following for Finance (IFF)*, ***Matlin G.***, Siddharth, Anirudh JM, Shukla A., Hassan Y., Chava S., GenAI Finance Workshop at the Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS) 2025.
+        *Financial Instruction Following Evaluation (FIFE)*, ***Matlin G.***, Siddharth, Anirudh JM, Shukla A., Hassan Y., Chava S., GenAI Finance Workshop at the Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS) 2025. https://arxiv.org/abs/2512.08965
       - |
         *Shall We Play a Game? Language Models for Open-ended Wargames*, **Matlin G.**, Mahajan P., Song I., Hao Y., Bard R., Topp S., Montoya E., Parwani M.R., Shetty S., Riedl M., Wordplay: When Language Meets Games Workshop at the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025. https://arxiv.org/abs/2509.17192
       - |
@@ -126,6 +126,9 @@ sections:
         start-date: 2026
       - title: clAIrvoyant, AI+ Expo Hackathon 2025 ($15,000 prize money)
         institution: OpenAI, Special Competitive Studies Project
+        start-date: 2025
+      - title: "Accelerate – 3,000,000 ACCESS Credits (~$100,000 compute credits)"
+        institution: "National Science Foundation (NSF), Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support (ACCESS)"
         start-date: 2025
       - title: MAGIC – Machine Assisted Global Intelligence Collection ($300,000 funding)
         institution: Defense Advanced Research Project Agency (DARPA)
@@ -242,24 +245,24 @@ sections:
         *Software Engineering:*
         Python, Rust, Go, PyTorch, TensorFlow, Scikit-learn, Pandas, SciPy, NumPy,
         Shell Scripting, Unit and Integration Testing, Continuous Integration & Deployment
-
+      - |
         *Artificial Intelligence:*
         Deep Learning, Generative AI, Neural Networks (Recurrent, Convolutional, Graph)
         Machine Learning (Trees, Regression, Embeddings, Clustering, Statistics & Probability)
-
+      - |
         *Natural Language:*
         Large Language Models (LLM), Generative Pre-trained Transformers (GPT),
         Bidirectional Encoder Representation from Transformers (BERT), HuggingFace, spaCy, Gensim, NLTK
-
+      - |
         *Computer Engineering:*
         Hardware Description Language (System Verilog), Test Benches (cocoTB),
         Power-Performance-Area Analysis, Tensor Processing Units, Systolic Arrays
-
+      - |
         *Systems Engineering:*
         Cloud Services (Amazon, Google, Azure), Cluster Computing (Spark, Kubernetes),
         Ray, Modin, Dask, MLFlow, Airflow, Parallelized & Distributed Computing
-
-        *Analysis & Visualization*
+      - |
+        *Analysis & Visualization:*
         SQL/NoSQL, Excel, R, SAS, Tableau, SPSS, D3.js, Jupyter, Matplotlib, Plotly, Seaborn
 
   # --- Professional Experience ------------------------------------
@@ -346,3 +349,37 @@ sections:
           Graduated high school at 15 and started a personal business building IT solutions for local businesses
           Created a remote virtual-desktop environment using thin-client laptops to enable agents complete mobility
           Implemented "paperless office" solutions to eliminate overhead costs and provide text-search capability
+
+# ------------------------------------------------------------------
+# 4. Profiles – filtering presets for different output variants
+#    (Content stays above; profiles only control what to show)
+# ------------------------------------------------------------------
+profiles:
+  resume:
+    description: One-page resume for job fairs and applications
+    order: [personal, education, publications, awards, research, experience]
+    sections:
+      personal:
+        show: true
+      education:
+        show: true
+        limit: 2
+      publications:
+        show: true
+        limit: 4
+      awards:
+        show: true
+        limit: 6
+      research:
+        show: true
+        limit: 3
+      teaching:
+        show: false
+      invited-talks:
+        show: false
+      skills:
+        show: false
+      experience:
+        show: true
+        limit: 4
+        description-limit: 2
