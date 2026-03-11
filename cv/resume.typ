@@ -64,7 +64,7 @@
         layout-header(cv-data, settings)
       } else {
         let layout = section.layout
-        let title = section.title
+        let title = prof.at("title", default: section.title)
 
         // Get the full section data
         let section-data = get-section-data(section, cv-data)
