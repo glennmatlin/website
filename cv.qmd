@@ -62,6 +62,18 @@ ML Alignment & Theory Scholars (MATS) Program
 :::
 
 ::: {.timeline-item}
+**Social Training Data Attribution ($10,000 compute credits)** | 2026
+
+Modal Labs, Modal for Academics
+:::
+
+::: {.timeline-item}
+**Financial Economics Reasoning Reinforcement ($5,000 compute credits)** | 2026
+
+Thinking Machines Lab, Tinker Research Grant
+:::
+
+::: {.timeline-item}
 **clAIrvoyant, AI+ Expo Hackathon 2025 ($15,000 prize money)** | 2025
 
 OpenAI, Special Competitive Studies Project

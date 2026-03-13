@@ -12,7 +12,7 @@ Academic website for Glenn Matlin, a PhD CS researcher at Georgia Tech. The site
 - **Python tooling:** uv (package manager), ruff (linter), pyright (type checker)
 
 ## Site URL
-- Production: https://glennmatlin.com
+- Production: https://www.glennmatlin.doctor
 - GitHub: https://github.com/gmatlin/website
 
 ## Key Design
