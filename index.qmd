@@ -20,7 +20,7 @@ toc: false
 [<i class="bi bi-envelope"></i>](#contact-email){.social-link aria-label="Email"}
 :::
 
-[Download CV](uploads/cv.pdf){.btn-outline-navy style="border-color: rgba(255,255,255,0.8); color: white; margin-top: 1.5rem;"} [Resume](uploads/resume.pdf){.btn-outline-navy style="border-color: rgba(255,255,255,0.8); color: white; margin-top: 1.5rem;"}
+[Download CV](cv/glenn-matlin-cv.pdf){.btn-outline-navy style="border-color: rgba(255,255,255,0.8); color: white; margin-top: 1.5rem;"} [Resume](cv/glenn-matlin-resume.pdf){.btn-outline-navy style="border-color: rgba(255,255,255,0.8); color: white; margin-top: 1.5rem;"}
 :::
 
 :::
@@ -53,8 +53,8 @@ I'm always interested in discussing research collaborations, interesting problem
 [<i class="bi bi-envelope"></i> Get in Touch](#contact-email){.connect-link}
 [<i class="bi bi-github"></i> GitHub](https://github.com/glennmatlin){.connect-link}
 [<i class="bi bi-linkedin"></i> LinkedIn](https://linkedin.com/in/glennmatlin){.connect-link}
-[<i class="bi bi-file-pdf"></i> Download CV](uploads/cv.pdf){.connect-link}
-[<i class="bi bi-file-pdf"></i> Resume](uploads/resume.pdf){.connect-link}
+[<i class="bi bi-file-pdf"></i> Download CV](cv/glenn-matlin-cv.pdf){.connect-link}
+[<i class="bi bi-file-pdf"></i> Resume](cv/glenn-matlin-resume.pdf){.connect-link}
 :::
 
 :::

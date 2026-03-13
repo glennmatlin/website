@@ -17,10 +17,10 @@ about:
       href: "#contact-email"
     - icon: file-pdf
       text: CV
-      href: uploads/cv.pdf
+      href: cv/glenn-matlin-cv.pdf
     - icon: file-pdf
       text: Resume
-      href: uploads/resume.pdf
+      href: cv/glenn-matlin-resume.pdf
 ---
 
 ## Glenn Matlin {.section-title}

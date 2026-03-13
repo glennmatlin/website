@@ -8,7 +8,7 @@ toc-depth: 2
 <!-- Content mirrors cv/data.yml — keep in sync when updating -->
 
 ::: {style="text-align: right; margin-bottom: 2rem;"}
-[Download CV](uploads/cv.pdf){.btn-gold} [Download Resume](uploads/resume.pdf){.btn-navy}
+[Download CV](cv/glenn-matlin-cv.pdf){.btn-gold} [Download Resume](cv/glenn-matlin-resume.pdf){.btn-navy}
 :::
 
 ## Education {.section-title}
@@ -83,6 +83,12 @@ OpenAI, Special Competitive Studies Project
 **Accelerate — 3,000,000 ACCESS Credits (~$100,000 compute credits)** | 2025
 
 National Science Foundation (NSF), Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support (ACCESS)
+:::
+
+::: {.timeline-item}
+**Financial Language Model Evaluation / FLaME ($6,000 compute credits)** | 2025
+
+Together AI, Research Credits Program
 :::
 
 ::: {.timeline-item}
@@ -340,5 +346,5 @@ IT Systems Consultant
 ---
 
 ::: {style="text-align: center; margin-top: 2rem;"}
-[Download Full CV (PDF)](uploads/cv.pdf){.btn-navy} [Download Resume (PDF)](uploads/resume.pdf){.btn-gold}
+[Download Full CV (PDF)](cv/glenn-matlin-cv.pdf){.btn-navy} [Download Resume (PDF)](cv/glenn-matlin-resume.pdf){.btn-gold}
 :::

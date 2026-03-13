@@ -124,11 +124,20 @@ sections:
       - title: MATS Research Fellowship ($30,000)
         institution: ML Alignment & Theory Scholars (MATS) Program
         start-date: 2026
+      - title: "Social Training Data Attribution ($10,000 compute credits)"
+        institution: Modal Labs, Modal for Academics
+        start-date: 2026
+      - title: "Financial Economics Reasoning Reinforcement ($5,000 compute credits)"
+        institution: Thinking Machines Lab, Tinker Research Grant
+        start-date: 2026
       - title: clAIrvoyant, AI+ Expo Hackathon 2025 ($15,000 prize money)
         institution: OpenAI, Special Competitive Studies Project
         start-date: 2025
       - title: "Accelerate – 3,000,000 ACCESS Credits (~$100,000 compute credits)"
         institution: "National Science Foundation (NSF), Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support (ACCESS)"
+        start-date: 2025
+      - title: "Financial Language Model Evaluation / FLaME ($6,000 compute credits)"
+        institution: Together AI, Research Credits Program
         start-date: 2025
       - title: MAGIC – Machine Assisted Global Intelligence Collection ($300,000 funding)
         institution: Defense Advanced Research Project Agency (DARPA)
