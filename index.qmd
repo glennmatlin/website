@@ -15,12 +15,14 @@ toc: false
 [PhD Student • Georgia Tech • MATS Scholar]{.tagline}
 
 ::: {.social-links style="margin-top: 1.5rem;"}
-[<i class="bi bi-github"></i>](https://github.com/glennmatlin){.social-link aria-label="GitHub"}
-[<i class="bi bi-linkedin"></i>](https://linkedin.com/in/glennmatlin){.social-link aria-label="LinkedIn"}
-[<i class="bi bi-envelope"></i>](#contact-email){.social-link aria-label="Email"}
+[<i class="bi bi-github"></i>](https://github.com/glennmatlin){.social-link aria-label="GitHub" title="GitHub"}
+[<i class="bi bi-linkedin"></i>](https://linkedin.com/in/glennmatlin){.social-link aria-label="LinkedIn" title="LinkedIn"}
+[<i class="bi bi-twitter-x"></i>](https://x.com/glennmatlin){.social-link aria-label="X" title="X (Twitter)"}
+[<svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-2.016-1.284-3.722-4.097-3.722h-2.222z"/></svg>](https://orcid.org/0000-0001-6439-6225){.social-link aria-label="ORCID" title="ORCID"}
+[<i class="bi bi-envelope"></i>](#contact-email){.social-link aria-label="Email" title="Email"}
+[<span class="social-link-text">CV</span>](cv/glenn-matlin-cv.pdf){.social-link aria-label="Download CV" title="Download CV"}
+[<span class="social-link-text">R</span>](cv/glenn-matlin-resume.pdf){.social-link aria-label="Download Resume" title="Resume"}
 :::
-
-[Download CV](cv/glenn-matlin-cv.pdf){.btn-outline-navy style="border-color: rgba(255,255,255,0.8); color: white; margin-top: 1.5rem;"} [Resume](cv/glenn-matlin-resume.pdf){.btn-outline-navy style="border-color: rgba(255,255,255,0.8); color: white; margin-top: 1.5rem;"}
 :::
 
 :::
@@ -53,8 +55,9 @@ I'm always interested in discussing research collaborations, interesting problem
 [<i class="bi bi-envelope"></i> Get in Touch](#contact-email){.connect-link}
 [<i class="bi bi-github"></i> GitHub](https://github.com/glennmatlin){.connect-link}
 [<i class="bi bi-linkedin"></i> LinkedIn](https://linkedin.com/in/glennmatlin){.connect-link}
-[<i class="bi bi-file-pdf"></i> Download CV](cv/glenn-matlin-cv.pdf){.connect-link}
-[<i class="bi bi-file-pdf"></i> Resume](cv/glenn-matlin-resume.pdf){.connect-link}
+[<i class="bi bi-twitter-x"></i> X](https://x.com/glennmatlin){.connect-link}
+[<i class="bi bi-file-earmark-pdf"></i> Download CV](cv/glenn-matlin-cv.pdf){.connect-link}
+[<i class="bi bi-file-text"></i> Resume](cv/glenn-matlin-resume.pdf){.connect-link}
 :::
 
 :::

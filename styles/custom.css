@@ -313,6 +313,27 @@
   box-shadow: 0 4px 12px rgba(212, 175, 55, 0.25);
 }
 
+/* Text-based social link icons (CV, Resume) */
+.social-link-text {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+  line-height: 1;
+}
+
+/* Ensure inline SVGs inside social links size correctly */
+.social-link svg {
+  width: 18px;
+  height: 18px;
+}
+
+/* Consistent Bootstrap Icon sizing in social links */
+.social-link i {
+  font-size: 1.15rem;
+  line-height: 1;
+}
+
 /* ===== GRID LAYOUTS ===== */
 .grid-3 {
   display: grid;

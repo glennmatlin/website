@@ -42,6 +42,9 @@ website:
       - icon: linkedin
         href: https://linkedin.com/in/glennmatlin
         aria-label: LinkedIn
+      - icon: twitter-x
+        href: https://x.com/glennmatlin
+        aria-label: X
       - icon: envelope
         href: "#contact-email"
         aria-label: Email

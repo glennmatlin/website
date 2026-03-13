@@ -12,13 +12,18 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/glennmatlin
+    - icon: twitter-x
+      text: X
+      href: https://x.com/glennmatlin
+    - text: ORCID
+      href: https://orcid.org/0000-0001-6439-6225
     - icon: envelope
       text: Email
       href: "#contact-email"
-    - icon: file-pdf
+    - icon: file-earmark-pdf
       text: CV
       href: cv/glenn-matlin-cv.pdf
-    - icon: file-pdf
+    - icon: file-text
       text: Resume
       href: cv/glenn-matlin-resume.pdf
 ---
